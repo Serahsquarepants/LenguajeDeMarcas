@@ -1,3 +1,19 @@
+body {
+    background-color: lavender;
+}
+
+h1 {
+    color: crimson;
+    text-align: center;
+    margin-bottom: 1cm;
+}
+
+h2 {
+    color: goldenrod;
+    text-align: center;
+    margin-bottom: .5cm;
+}
+
 p {
     margin-left: 1cm;
     margin-right: 1cm;
