@@ -4,6 +4,12 @@ p {
     text-align: justify;
 }
 
+dd {
+    margin-left: 1cm;
+    margin-right: 1cm;
+    text-align: justify;
+}
+
 div {
     font-size: 12;
     font-size: Arial;
