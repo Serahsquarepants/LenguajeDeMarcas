@@ -3,6 +3,11 @@ th {
     border: solid;
     border-collapse: collapse;
     text-align: center;
+    border-color: white;
+}
+
+table {
+    border-color: white;
 }
 
 td {
