@@ -1,6 +1,14 @@
 th {
-    border-color: black;
-    border-width: 1cm;
+    border-width: 2cm;
     border: solid;
     border-collapse: collapse;
+}
+
+table {
+    width: 100%;
+}
+
+td {
+    border: 1px solid black;
+    border-width: 70%;
 }
