@@ -4,12 +4,12 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Tablas</title>
     <link rel="stylesheet" href="/css/act5style.css">
 </head>
 <body>
     <h1 style="text-align: center;">Tablas</h1>
-    <div style="text-align: center; margin-left: 6.5cm;">
+    <div style="text-align: center; margin-left: 8cm;">
         <table> <!--Primera tabla, combinación de filas-->
             <tr>
             <td colspan="2"><b>Celda 1</b></td>
@@ -25,7 +25,7 @@
                 <td>Celda 7</td>
             </tr>
         </table>
-
+        <br>
         <table> <!--Segunda tabla, combinación de columnas-->
             <tr>
                 <td colspan="2"><b>Celda Combinada</b></td>
@@ -44,6 +44,28 @@
                 <td>C7</td>
                 <td>C8</td>
                 <td colspan="2">C9 Comb.</td>
+            </tr>
+        </table>
+        <br>
+        <table> <!--Tercera tabla, combinación de filas y columnas-->
+            <tr>
+                <td><b>Celda 1</b></td>
+                <td><b>Celda 2</b></td>
+                <td><b>Celda 3</b></td>
+                <td><b>Celda 4</b></td>
+            </tr>
+            <tr>
+                <td rowspan="3">Celda 5</td>
+                <td>Celda 6</td>
+                <td colspan="2">Celda 7</td>
+            </tr>
+            <tr>
+                <td>Celda 8</td>
+                <td>Celda 9</td>
+                <td rowspan="2">Celda 10</td>
+            </tr>
+            <tr>
+                <td colspan="2">Celda 11</td>
             </tr>
         </table>
     </div>
