@@ -1,9 +1,14 @@
+div {
+    text-align: center;
+}
+
 th {
     border-width: 2px;
     border: solid;
     border-collapse: collapse;
     text-align: center;
     border-color: white;
+    padding: 10px;
 }
 
 table {
@@ -13,5 +18,5 @@ table {
 td {
     border: 1px solid black;
     border-width: 70%;
-    text-align: center;
+    padding: 10px;
 }
