@@ -2,6 +2,12 @@
 
 Mi página de Netlify a fecha 1/10/2022 16:00h es: https://main--eclectic-monstera-7c1d02.netlify.app/index.html
 
+ACTUALIZACIÓN 7/10/2022 (10:26h) Tiempo consumido 1h 38m:
+    · Actividad 4: Fix del tamaño de la imagen.
+    · Actividad 5: Acabada.
+    · Actividad 6: Acabada.
+
+
 ACTUALIZACIÓN 1/10/2022 (16:00h) Tiempo consumido: 4h 26m: 
     · Actividad 3 acabada, se accede a ella a través del texto Actividad 3. Contiene exactamente lo que se requiere en la actividad 3.
     · Testeo mediante la actividad 3, se accede al testeo mediante el enlace Actividad 3 testeo.
