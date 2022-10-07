@@ -2,6 +2,9 @@
 
 Mi página de Netlify a fecha 1/10/2022 16:00h es: https://main--exquisite-pika-45f4be.netlify.app/index.html
 
+ACTUALIZACIÓN 7/10/2022 (18:46h):
+    · Actividad 7 acabada.
+
 ACTUALIZACIÓN 7/10/2022 (10:26h) Tiempo consumido 1h 38m:
     · Actividad 4: Fix del tamaño de la imagen.
     · Actividad 5: Acabada.
