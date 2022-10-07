@@ -1,6 +1,6 @@
 # LenguajeDeMarcas
 
-Mi página de Netlify a fecha 1/10/2022 16:00h es: https://main--eclectic-monstera-7c1d02.netlify.app/index.html
+Mi página de Netlify a fecha 1/10/2022 16:00h es: https://main--exquisite-pika-45f4be.netlify.app/index.html
 
 ACTUALIZACIÓN 7/10/2022 (10:26h) Tiempo consumido 1h 38m:
     · Actividad 4: Fix del tamaño de la imagen.
