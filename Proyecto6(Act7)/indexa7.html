@@ -31,6 +31,27 @@
             <label>Apellidos</label>
             <input type="text" name="apellidos1">
         </fieldset>
+        <p style="margin-top: 0.5;"></p>
+        <fieldset>
+            <legend>Indique sus preferencias por favor</legend>
+            <select multiple> <!--Selector multiple-->
+                <option value="hombre1">Hombre</option>
+                <option value="mujer1">Mujer</option>
+                <option value="otros1">Otros</option>
+            </select>
+            <br>
+            <p></p> <!--Selector de opción múltiple-->
+            <input type="checkbox" id="Hombre" name="sexo" />
+            <label for="Hombre">Hombre</label>
+            <input type="checkbox" id="mujer" name="sexo" />
+            <label for="mujer">Mujer</label>
+            <input type="checkbox" id="otros" name="sexo" />
+            <label for="otros">Otros</label>
+            <br>
+            <p></p> <!--Selector fecha-->
+            <label>Elija una fecha:</label>
+            <input type="date">
+        </fieldset>
     </form>
 </body>
 </html>
