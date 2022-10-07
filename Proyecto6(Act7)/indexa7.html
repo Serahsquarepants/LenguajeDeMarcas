@@ -11,14 +11,25 @@
         <fieldset>
             <legend>Rellenar</legend>
             <!--Idiomas-->
-            <input type="radio" id="ingles" name="ingles"> 
+            <input type="radio" id="ingles" name="idioma"> <!--Para permitir la multiopción hay que cambiar el name-->
             <label for="ingles">Inglés</label><br>
-            <input type="radio" id="aleman" name="aleman">
+            <input type="radio" id="aleman" name="idioma">
             <label for="aleman">Alemán</label><br>
-            <input type="radio" id="frances" name="frances"> 
+            <input type="radio" id="frances" name="idioma"> 
             <label for="frances">Francés</label><br>
             <!--USB-->
-            
+            <br>
+            <select name="selectExt" id="selectExt">
+                <option value="hardidsk">Hard disk</option>
+                <option value="usb">USB</option>
+                <option value="DVD">DVD</option>
+            </select> <br>
+            <p style="margin-top: 0.5cm;"></p>
+            <!--Nombre y apellidos-->
+            <label>Nombre</label>
+            <input type="text" name="nombre1"><br>
+            <label>Apellidos</label>
+            <input type="text" name="apellidos1">
         </fieldset>
     </form>
 </body>
