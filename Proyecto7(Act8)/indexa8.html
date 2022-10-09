@@ -7,13 +7,79 @@
     <title>Actividad 8</title>
 </head>
 <body>
-    <fieldset>
-        <legend>Indique sus preferencias por favor</legend>
+    <fieldset> <!--Primera parte-->
+        <legend>Indique sus preferencias por favor:</legend>
         <label>Elija una fecha:</label>
         <input type="date" />
         <br>
+            <p></p>
         <label>Elija un fichero </label>
-        <!--Seleccionar un archivo-->
+        <input type="file" />
+        <br>
+            <p></p>
+        <input type="radio" name="select" id="amd" />
+        <label for="amd">AMD</label>
+        <input type="radio" name="select" id="intel5" />
+        <label for="intel5">Intel I5</label>
+        <input type="radio" name="select" id="intel7" />
+        <label for="intel7">Intel I7</label>
+    </fieldset>
+
+    <fieldset> <!--Segunda parte-->
+        <legend>Indique sus preferencias por favor:</legend>
+            <input type="radio" name="select2" id="mates" />
+            <label for="mates">Matemáticas</label>
+            <input type="radio" name="select2" id="historia" />
+            <label for="historia">Historia</label>
+            <input type="radio" name="select2" id="geografia" />
+            <label for="geografia">Geografía</label>
+            <input type="radio" name="select2" id="lengua" />
+            <label for="lengua">Lengua</label>
+            <br>
+                <p></p>
+            <label>Nombre</label>
+            <input type="text" name="nombre" id="nombre"/>
+            <br>
+            <label>Apellidos</label>
+            <input type="text" name="apellidos" id="apellidos"/>
+            <br>
+            <label>Dirección</label>
+            <input type="text" name="dirección" id="dirección"/>
+            <br>
+                <p></p>
+            <label>Elija un color:</label>
+            <input type="color" />
+            <br>
+                <p></p>
+            <textarea type="text" name="area1" id="area1"></textarea>
+            <br>
+                <p></p>
+            <label>Elija una fecha:</label>
+            <input type="date" name="fecha2"/>
+            <br>
+                <p></p>
+            <select name="idioma2" id="idioma2">
+                <option value="ingles">Inglés</option>
+                <option value="frances">Francés</option>
+                <option value="aleman">Alemán</option>
+                <option value="castellano">Castellano</option>
+            </select>
+            <br>
+                <p></p>
+            <label for="hora2">Elija una hora:</label>
+            <input type="time" id="hora2" name="hora2" value="horav2" />
+            <br>
+                <p></p>
+            <label>Elija un fichero:</label>
+            <input type="file"></input>
+            <br>
+                <p></p>
+            <input type="checkbox" id="mujer">
+            <label for="mujer">Mujer</label>
+            <input type="checkbox" id="hombre">
+            <label for="hombre">Hombre</label>
+            <input type="checkbox" id="Otros">
+            <label for="Otros">Otros</label>
     </fieldset>
 </body>
 </html>
