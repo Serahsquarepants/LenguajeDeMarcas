@@ -13,6 +13,7 @@ li {
     float: right;
     width: 80%;
     text-align: justify;
+    flex: 1;
 }
 
 p {
