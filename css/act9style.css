@@ -1,11 +1,13 @@
 .izquierda {
     float: left;
     width: 20%;
+    height: 100%;
     text-align: justify;
 }
 
 .centro {
     float: center;
     width: 80%;
+    margin-left: 1cm;
 }
 
