@@ -1,7 +1,6 @@
 .izquierda {
     float: left;
     width: 20%;
-    height: 100%;
     text-align: justify;
     flex: 1;
 }
