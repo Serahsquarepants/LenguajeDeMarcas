@@ -4,3 +4,8 @@
     text-align: justify;
 }
 
+.centro {
+    float: center;
+    width: 80%;
+}
+
