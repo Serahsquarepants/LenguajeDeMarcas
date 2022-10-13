@@ -3,6 +3,7 @@
     width: 20%;
     height: 100%;
     text-align: justify;
+    flex: 1;
 }
 
 li {
@@ -13,7 +14,7 @@ li {
     float: right;
     width: 80%;
     text-align: justify;
-    flex: 1;
+    
 }
 
 p {
