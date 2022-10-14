@@ -1,23 +1,23 @@
 header {
     height: 10%;
-    width: 100%;
+    width: 30%;
 }
 
 .inicio {
     height: 100%;
-    width: 100%;
+    width: 30%;
     float: left;
 }
 
 .servicios {
     height: 100%;
-    width: 100%;
+    width: 30%;
     float: right;
 }
 
 .blog {
      
      height: 100%;
-     width: 100%;
+     width: 30%;
     float: right;
 }
