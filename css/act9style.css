@@ -27,7 +27,6 @@ p {
 }
 
 .columnas {
-    float: right;
     width: 33.3%;
     text-align: justify;
 }
