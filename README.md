@@ -1,6 +1,6 @@
 # LenguajeDeMarcas
 
-Mi página de Netlify a fecha 1/10/2022 16:00h es: https://main--eclectic-monstera-7c1d02.netlify.app/index.html
+Mi página de Netlify a fecha 1/10/2022 16:00h es: https://main--eclectic-monstera-7c1d02.netlify.app/
 
 ACTUALIZACIÓN 14/10/2022 (11:20h) Tiempo consumido 20m:
     · Actividad 9 solucionada y acabada.
