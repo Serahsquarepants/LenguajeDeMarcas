@@ -5,19 +5,19 @@ header {
 
 .inicio {
     height: 100%;
-    width: 30%;
+    width: 25%;
     float: left;
 }
 
 .servicios {
     height: 100%;
     width: 30%;
-    float: right;
+    float: left;
 }
 
 .blog {
      
     height: 100%;
     width: 30%;
-    float: right;
+    float: left;
 }
