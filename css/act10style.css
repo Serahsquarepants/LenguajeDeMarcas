@@ -5,13 +5,16 @@ body {
 header {
     height: 10%;
     width: 30%;
+    background-color: white;
+    margin-right: 1cm;
+    margin-left: 1cm;
+    margin-top: 1cm;
 }
 
 .inicio {
     height: 100%;
     width: 25%;
     float: left;
-    margin-left: 1cm;
 }
 
 .servicios {
