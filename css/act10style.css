@@ -12,6 +12,7 @@ header {
 
 .marco {
     width: 50%;
+    flex-direction: row;;
 }
 
 .inicio {
