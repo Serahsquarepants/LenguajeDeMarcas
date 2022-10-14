@@ -6,13 +6,12 @@ header {
     height: 10%;
     width: 100%;
     background-color: white;
-    margin-top: 1cm;
     text-align: center;
 }
 
 .marco {
     width: 50%;
-    flex-direction: row;;
+    flex-direction: row;
 }
 
 .inicio {
