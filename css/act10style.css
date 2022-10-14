@@ -9,23 +9,7 @@ header {
     margin-right: 1cm;
     margin-left: 1cm;
     margin-top: 1cm;
+    flex-direction: row;
 }
 
-.inicio {
-    height: 100%;
-    width: 25%;
-    float: left;
-}
 
-.servicios {
-    height: 100%;
-    width: 30%;
-    float: left;
-}
-
-.blog {
-     
-    height: 100%;
-    width: 30%;
-    float: left;
-}
