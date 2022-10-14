@@ -10,6 +10,10 @@ header {
     text-align: center;
 }
 
+.marco {
+    width: 50%;
+}
+
 .inicio {
     flex-direction: row;
     width: 30%;
