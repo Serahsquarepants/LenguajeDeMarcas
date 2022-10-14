@@ -9,7 +9,25 @@ header {
     margin-right: 1cm;
     margin-left: 1cm;
     margin-top: 1cm;
-    flex-direction: row;
 }
 
+.inicio {
+    flex-direction: row;
+    height: 15%;
+    width: 30%;
+    margin-right: 1cm;
+}
 
+.servicios {
+    flex-direction: row;
+    height: 15%;
+    width: 30%;
+    margin-right: 1cm;
+}
+
+.blog {
+    flex-direction: row;
+    height: 15%;
+    width: 30%;
+    margin-right: 1cm;
+}
