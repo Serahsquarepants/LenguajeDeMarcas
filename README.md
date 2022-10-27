@@ -2,7 +2,8 @@
 
 Mi página de Netlify a fecha 1/10/2022 16:00h es: https://main--exquisite-pika-45f4be.netlify.app/
 
-ACTUALIZACIÓN 27/10
+ACTUALIZACIÓN 27/10/2022 (2040h) Tiempo consumido 1h 50 min:
+    · Actividad 11 acabada.
 
 ACTUALIZACIÓN 20/10/2022 (19:57h) Tiempo consumido 55min:
     · Actividad 10 acabada.
