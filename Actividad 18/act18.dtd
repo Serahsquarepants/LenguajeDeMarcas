@@ -1,0 +1,28 @@
+<!ELEMENT factura (datos_empresa, datos_cliente, datos_factura)>
+<!ATTLIST factura n_fac ID #REQUIRED>
+<!ELEMENT datos_empresa (nombre+, dir, poblacion+, provincia+, cif, telefono)> <!--¿Hay que poner el + en nombre, dirección y provincia porque aparece también en cliente y no hay que repetir?-->
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT dir (#PCDATA)>
+<!ELEMENT poblacion (#PCDATA)>
+<!ATTLIST poblacion cod_postal NMTOKEN #IMPLIED> <!--Atributo aquí porque aparece el CP en el cliente y por orden creo que va aquí-->
+<!ELEMENT provincia (#PCDATA)>
+<!ELEMENT cif (#PCDATA)>
+<!ELEMENT telefono "917776688" #IMPLIED>
+<!ELEMENT datos_cliente (nombre, dir_env, poblacion, provincia)>
+<!ATTLIST datos_cliente n_cli ID #REQUIRED>
+<!ELEMENT dir_env (#PCDATA)>
+<!ELEMENT datos_factura (fecha, linea+, base, cuota_iva, total)>
+<!ATTLIST datos_factura n_ped ID #REQUIRED>
+<!ATTLIST datos_factura iva NMTOKEN #REQUIRED>
+<!ATTLIST datos_factura f_pago (efectivo|tarjeta|plazos)>
+<!ATTLIST datos_factura moneda "euro" #REQUIRED>
+<!ELEMENT fecha (#PCDATA)>
+<!ELEMENT linea (ref, desc, cant, precio, importe)>
+<!ELEMENT ref (#PCDATA)>
+<!ELEMENT desc (#PCDATA)>
+<!ELEMENT cant (#PCDATA)>
+<!ELEMENT precio (#PCDATA)>
+<!ELEMENT importe (#PCDATA)>
+<!ELEMENT base (#PCDATA)>
+<!ELEMENT cuota_iva (#PCDATA)>
+<!ELEMENT total (#PCDATA)>
