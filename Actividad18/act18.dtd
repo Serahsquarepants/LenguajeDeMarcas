@@ -8,7 +8,8 @@
 <!ELEMENT provincia (#PCDATA)>
 <!ELEMENT cif (#PCDATA)>
 <!ELEMENT telefono (#PCDATA)>
-<!ENTITY numTel SYSTEM "917776688">
+<!ATTLIST telefono numeroTel CDATA #FIXED "917776688">
+<!ATTLIST telefono numeroFax CDATA #FIXED "917776699">
 <!ELEMENT datos_cliente (nombre, dir_env, poblacion, provincia)>
 <!ATTLIST datos_cliente n_cli ID #REQUIRED>
 <!ELEMENT dir_env (#PCDATA)>
