@@ -71,4 +71,5 @@
         </pago>    
     
     </factura>
+    <![CDATA[ "Hola"  ]]>
 </facturación>   
