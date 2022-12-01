@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<facturación>
+
+
+<facturación > 
     <factura numero="999">
         <DatosEmpresa>
             <nombre id="empresa">Equipos Digitales S.L.</nombre>
@@ -71,5 +73,4 @@
         </pago>    
     
     </factura>
-    <![CDATA[ "Hola"  ]]>
 </facturación>   
