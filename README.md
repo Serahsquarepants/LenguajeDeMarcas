@@ -1,6 +1,9 @@
 # LenguajeDeMarcas
 
-Mi página de Netlify a fecha 1/10/2022 16:00h es: https://main--exquisite-pika-45f4be.netlify.app/
+Mi página de Netlify a fecha 1/10/2022 16:00h es: https://main--eclectic-monstera-7c1d02.netlify.app/Actividad%2021/indexa21.xml
+
+ACTUALIZACIÓN 2/11/2022 (18:32h) Tiempo consumido 3h:
+    · Actividad 21 acabada.
 
 ACTUALIZACIÓN 10/11/2022 (19:50h) Tiempo consumido 40 min:
     · Actividad 19 acabada.
@@ -34,7 +37,6 @@ ACTUALIZACIÓN 14/10/2022 (11:20h) Tiempo consumido 20m:
 ACTUALIZACIÓN 8/10/2022 (13:34h) Tiempo consumido 30m:
     · Actividad 8 acabada.
 
-
 ACTUALIZACIÓN 7/10/2022 (18:46h) Tiempo consumido 1h 15m:
     · Actividad 7 acabada.
 
@@ -42,7 +44,6 @@ ACTUALIZACIÓN 7/10/2022 (10:26h) Tiempo consumido 1h 38m:
     · Actividad 4: Fix del tamaño de la imagen.
     · Actividad 5: Acabada.
     · Actividad 6: Acabada.
-
 
 ACTUALIZACIÓN 1/10/2022 (16:00h) Tiempo consumido: 4h 26m: 
     · Actividad 3 acabada, se accede a ella a través del texto Actividad 3. Contiene exactamente lo que se requiere en la actividad 3.
