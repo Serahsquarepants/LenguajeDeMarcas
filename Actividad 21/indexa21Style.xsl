@@ -17,11 +17,11 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
                     <th>Fecha</th>
                 </tr>
                 <tr>
-                    <th>dia</th>
-                    <th>mes</th>
-                    <th>año</th>
+                    <td>dia</td>
+                    <td>mes</td>
+                    <td>año</td>
                 </tr>
-                <xsl:for-each select="tabla/descripcion">
+                <xsl:for-each select="tabla/descripcion/fecha">
                 <tr>
                     <td>
                         <xsl:value-of select="dia"/>
