@@ -11,7 +11,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
             <h1>Ejercicio 21</h1>
             <table border="2" style="text-align:center">
                 <tr>
-                    <th colspan="3" style="margin:5px">Descripción</th>
+                    <th colspan="3" style="padding: 10px">Descripción</th>
                 </tr>
                 <tr>
                     <th colspan="3">Fecha</th>
