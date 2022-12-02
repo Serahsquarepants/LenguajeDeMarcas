@@ -11,7 +11,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
                 <h1 style="text-align: center">Ejercicio 22</h1>
                 <table border="2" style="text-align:justify">
                     <tr>
-                        <th colspan="6">CDs EN OFERTA</th>
+                        <th colspan="6" style="text-align:center">CDs EN OFERTA</th>
                     </tr>
                     <tr>
                         <th>Título</th>
