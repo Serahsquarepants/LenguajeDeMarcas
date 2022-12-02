@@ -14,7 +14,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
                     <th colspan="3" style="padding: 10px">Descripción</th>
                 </tr>
                 <tr>
-                    <th colspan="3" style="padding: 10px">Fecha</th>
+                    <th colspan="3" style="padding: 5px">Fecha</th>
                 </tr>
                 <tr>
                     <td style="padding: 5px">dia</td>
