@@ -24,8 +24,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
                     <td colspan="3" style="padding: 5px">
                         <xsl:value-of select="@hecho"/>
                     </td>
-                    <td>
-                    <xsl:for-each select="tabla/descripcion/fecha">
+                   
                             <td style="padding: 5px">
                                 <xsl:value-of select="dia"/>
                             </td>
@@ -35,8 +34,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
                             <td style="padding: 5px"> 
                                 <xsl:value-of select="año"/>
                             </td>    
-                    </xsl:for-each>
-                    </td>
+                
                 </tr>    
                 </xsl:for-each>
             </table>
