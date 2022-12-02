@@ -22,12 +22,24 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
                         <th>Año de publicación</th>
                     </tr>
                     <xsl:for-each select="CDsOferta/CD">
+                    <tr>
                         <td><xsl:value-of select="título"/></td>
+                    </tr>    
+                    <tr>
                         <td><xsl:value-of select="artista"/></td>
+                    </tr>
+                    <tr>
                         <td><xsl:value-of select="pais"/></td>
+                    </tr>    
+                    <tr>
                         <td><xsl:value-of select="compañía"/></td>
+                    </tr>    
+                    <tr>
                         <td><xsl:value-of select="precio"/></td>
+                    </tr>    
+                    <tr>
                         <td><xsl:value-of select="año"/></td>
+                    </tr>    
                     </xsl:for-each>
                 </table>
             </body>
