@@ -9,9 +9,9 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
         </head>
         <body>
             <h1>Ejercicio 21</h1>
-            <table border="2" style="text-align:center; padding:2px">
+            <table border="2" style="text-align:center">
                 <tr>
-                    <th colspan="3">Descripción</th>
+                    <th colspan="3" style="padding: 1px">Descripción</th>
                 </tr>
                 <tr>
                     <th colspan="3">Fecha</th>
