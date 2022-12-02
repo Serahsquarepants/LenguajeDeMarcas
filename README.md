@@ -1,9 +1,10 @@
 # LenguajeDeMarcas
 
-Mi página de Netlify a fecha 1/10/2022 16:00h es: https://main--eclectic-monstera-7c1d02.netlify.app/Actividad%2021/indexa21.xml
+Mi página de Netlify a fecha 1/10/2022 16:00h es: https://main--eclectic-monstera-7c1d02.netlify.app/
 
-ACTUALIZACIÓN 2/11/2022 (18:32h) Tiempo consumido 3h:
+ACTUALIZACIÓN 2/11/2022 (18:57h) Tiempo consumido 3h 20 min:
     · Actividad 21 acabada.
+    · Actividad 22 acabada.
 
 ACTUALIZACIÓN 10/11/2022 (19:50h) Tiempo consumido 40 min:
     · Actividad 19 acabada.
