@@ -11,10 +11,10 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
             <h1>Ejercicio 21</h1>
             <table border="1">
                 <tr>
-                    <th>Descripción</th>
+                    <th colspan="3">Descripción</th>
                 </tr>
                 <tr>
-                    <th>Fecha</th>
+                    <th colspan="3">Fecha</th>
                 </tr>
                 <tr>
                     <td>dia</td>
