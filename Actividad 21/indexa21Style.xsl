@@ -14,22 +14,22 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
                     <th colspan="3" style="padding: 10px">Descripción</th>
                 </tr>
                 <tr>
-                    <th colspan="3">Fecha</th>
+                    <th colspan="3" style="padding: 10px">Fecha</th>
                 </tr>
                 <tr>
-                    <td>dia</td>
-                    <td>mes</td>
-                    <td>año</td>
+                    <td style="padding: 5px">dia</td>
+                    <td style="padding: 5px">mes</td>
+                    <td style="padding: 5px">año</td>
                 </tr>
                 <xsl:for-each select="tabla/descripcion/fecha">
                 <tr>
-                    <td>
+                    <td style="padding: 5px">
                         <xsl:value-of select="dia"/>
                     </td>
-                    <td>
+                    <td style="padding: 5px">
                         <xsl:value-of select="mes"/>
                     </td>  
-                    <td>
+                    <td style="padding: 5px"> 
                         <xsl:value-of select="año"/>
                     </td>    
                 </tr>
