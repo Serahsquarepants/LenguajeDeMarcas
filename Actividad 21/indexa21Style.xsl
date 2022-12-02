@@ -21,7 +21,9 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
                 </tr>
                 <xsl:for-each select="tabla/descripcion/fecha">
                 <tr>
-                    <td style="padding: 5px">IBM da a conocer el PC</td>
+                    <td colspan="3" style="padding: 5px">
+                        <xsl:value-of select="@hecho"/>
+                    </td>
                     <td style="padding: 5px">
                         <xsl:value-of select="dia"/>
                     </td>
