@@ -15,7 +15,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
                     <th colspan="3" style="padding: 5px">Fecha</th>
                 </tr>
                 <tr>
-                    <td style="padding: 5px">dia</td>
+                    <td style="padding: 5px">día</td>
                     <td style="padding: 5px">mes</td>
                     <td style="padding: 5px">año</td>
                 </tr>
