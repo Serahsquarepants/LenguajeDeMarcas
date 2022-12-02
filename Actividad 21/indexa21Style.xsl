@@ -19,23 +19,21 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
                     <td style="padding: 5px">mes</td>
                     <td style="padding: 5px">año</td>
                 </tr>
-                <xsl:for-each select="tabla/descripcion">
-                    <xsl:for-each select="tabla/descripcion">
-                        <tr>
-                            <td colspan="3" style="padding: 5px">
-                                <xsl:value-of select="@hecho"/>
-                            </td>
-                            <td style="padding: 5px">
-                                <xsl:value-of select="dia"/>
-                            </td>
-                            <td style="padding: 5px">
-                                <xsl:value-of select="mes"/>
-                            </td>  
-                            <td style="padding: 5px"> 
-                                <xsl:value-of select="año"/>
-                            </td>    
-                        </tr>
-                    </xsl:for-each>
+                <xsl:for-each select="tabla/descripcion/fecha">
+                <tr>
+                    <td colspan="3" style="padding: 5px">
+                        <xsl:value-of select="@hecho"/>
+                    </td>
+                    <td style="padding: 5px">
+                        <xsl:value-of select="dia"/>
+                    </td>
+                    <td style="padding: 5px">
+                        <xsl:value-of select="mes"/>
+                    </td>  
+                    <td style="padding: 5px"> 
+                        <xsl:value-of select="año"/>
+                    </td>    
+                </tr>
                 </xsl:for-each>
             </table>
         </body>
