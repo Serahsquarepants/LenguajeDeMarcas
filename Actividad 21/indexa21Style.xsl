@@ -9,7 +9,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
         </head>
         <body>
             <h1>Ejercicio 21</h1>
-            <table border="1">
+            <table border="2" style="text-align:center">
                 <tr>
                     <th colspan="3">Descripción</th>
                 </tr>
