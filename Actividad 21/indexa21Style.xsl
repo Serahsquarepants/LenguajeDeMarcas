@@ -19,7 +19,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
                     <td style="padding: 5px">mes</td>
                     <td style="padding: 5px">año</td>
                 </tr>
-                <xsl:for-each select="tabla/descripcion/fecha">
+                <xsl:for-each select="tabla/descripcion">
                 <tr>
                     <td colspan="3" style="padding: 5px">
                         <xsl:value-of select="@hecho"/>
