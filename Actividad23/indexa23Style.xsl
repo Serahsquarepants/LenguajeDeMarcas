@@ -16,10 +16,10 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
                     <td colspan="3" style="padding:'10px'">
                         <p><xsl:value-of select="facturación/factura/DatosEmpresa/nombre"/>
                         <br/><xsl:value-of select="facturación/factura/DatosEmpresa/calle"/>
-                        <br/><xsl:value-of select="facturación/factura/DatosEmpresa/poblacion"/>-<xsl:value-of select="facturación/factura/DatosEmpresa/codigoPostal"/></p>
+                        <br/><xsl:value-of select="facturación/factura/DatosEmpresa/poblacion"/><xsl:value-of select="facturación/factura/DatosEmpresa/codigoPostal"/>
                         <br/>C.I.F.: <xsl:value-of select="facturación/factura/DatosEmpresa/cif"/>
                         <br/>Teléfono: <xsl:value-of select="facturación/factura/DatosEmpresa/telefono"/>
-                        <p>Fax: <xsl:value-of select="facturación/factura/DatosEmpresa/fax"/></p>
+                        <br/>Fax: <xsl:value-of select="facturación/factura/DatosEmpresa/fax"/></p>
                     </td>
                     <td colspan="3" style="padding:'10px'">
                         <br/>
