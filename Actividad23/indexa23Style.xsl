@@ -64,7 +64,9 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
                     </tr>
                 </xsl:for-each>
                 <tr>
-
+                    <th colspan="2">Base imponible</th>
+                    <th colspan="2">% I.V.A.</th>
+                    <th colspan="2">Cuota I.V.A.</th>
                 </tr>
             </table>
         </body> 
