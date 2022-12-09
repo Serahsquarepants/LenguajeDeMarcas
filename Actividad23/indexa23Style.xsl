@@ -10,7 +10,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
         <body>
             <table border="2" style="text-align:justify">
                 <tr>
-                    <th>Factura nº</th>
+                    <th>Factura nº <xsl:value-of select="facturación/factura/@numero"/></th>
                 </tr>
             </table>
         </body> 
