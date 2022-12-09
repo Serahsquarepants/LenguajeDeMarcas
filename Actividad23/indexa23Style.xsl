@@ -10,11 +10,17 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
         <body>
             <table border="2" style="text-align:justify">
                 <tr>
-                    <th colspan="6">Factura nº <xsl:value-of select="facturación/factura/@numero"/></th>
+                    <th colspan="6" style="text-align:center">Factura nº <xsl:value-of select="facturación/factura/@numero"/></th>
                 </tr>
                 <tr>
                     <td>
                         <p><xsl:value-of select="facturación/factura/DatosEmpresa/nombre"/></p>
+                        <p><xsl:value-of select="facturación/factura/DatosEmpresa/calle"/></p>
+                        <p><xsl:value-of select="facturación/factura/DatosEmpresa/poblacion"/></p>
+                        <p><xsl:value-of select="facturación/factura/DatosEmpresa/calle"/>  <xsl:value-of select="DatosEmpresa/codigoPostal"/></p>
+                        <p>C.I.F.: <xsl:value-of select="facturación/factura/DatosEmpresa/cif"/></p>
+                        <p>Teléfono: <xsl:value-of select="facturación/factura/DatosEmpresa/telefono"/></p>
+                        <p>Fax: <xsl:value-of select="facturación/factura/DatosEmpresa/fax"/></p>
                     </td>
                     <td>
 
