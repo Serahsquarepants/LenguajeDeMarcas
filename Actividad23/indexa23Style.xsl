@@ -59,7 +59,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
                         <td><xsl:value-of select="facturación/factura/DatosFacturaCliente/descripcion"/></td>
                         <td><xsl:value-of select="facturación/factura/DatosFacturaCliente/cantidad"/></td>
                         <td><xsl:value-of select="facturación/factura/DatosFacturaCliente/precio"/></td>
-                        <td><xsl:value-of select="facturación/factura/DatosFacturaCliente/iva"/></td>
+                        
                         <td><xsl:value-of select="facturación/factura/DatosFacturaCliente/importe"/></td>
                     </tr>
                 </xsl:for-each>
