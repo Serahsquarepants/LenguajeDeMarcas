@@ -30,10 +30,10 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
                     </td>
                 </tr>
                 <tr>
-                    <th>Datos CLIENTE</th>
+                    <th colspan="6">Datos CLIENTE</th>
                 </tr>
                 <tr>
-                    <td>
+                    <td colspan="6">
                         <p>nº Cliente: <xsl:value-of select="facturación/factura/DatosCliente/numeroCliente"/></p>
                         <p>Nombre: <xsl:value-of select="facturación/factura/DatosCliente/nombre"/></p>
                         <p>Dirección de envío: <xsl:value-of select="facturación/factura/DatosCliente/direcciónEnvio"/></p>
