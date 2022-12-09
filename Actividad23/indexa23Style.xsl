@@ -68,8 +68,9 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
                     <th colspan="2">% I.V.A.</th>
                     <th colspan="2">Cuota I.V.A.</th>
                 </tr>
+                <br/>
                 <tr>
-                    <td colspan="6" style="border-left-color:white;border-right-color:white"> h</td>
+                    <td>chimbala</td>
                 </tr>
             </table>
         </body> 
