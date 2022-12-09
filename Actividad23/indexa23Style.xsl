@@ -10,10 +10,10 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
         <body>
             <table border="2" style="text-align:justify">
                 <tr>
-                    <th colspan="6" style="text-align:center">Factura nº <xsl:value-of select="facturación/factura/@numero"/></th>
+                    <th colspan="6" style="text-align:center; padding:'10px'">Factura nº <xsl:value-of select="facturación/factura/@numero"/></th>
                 </tr>
                 <tr>
-                    <td>
+                    <td colspan="3" style="padding:'10px'">
                         <p><xsl:value-of select="facturación/factura/DatosEmpresa/nombre"/></p>
                         <p><xsl:value-of select="facturación/factura/DatosEmpresa/calle"/></p>
                         <p><xsl:value-of select="facturación/factura/DatosEmpresa/poblacion"/>-<xsl:value-of select="facturación/factura/DatosEmpresa/codigoPostal"/></p>
@@ -21,8 +21,8 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
                         <p>Teléfono: <xsl:value-of select="facturación/factura/DatosEmpresa/telefono"/></p>
                         <p>Fax: <xsl:value-of select="facturación/factura/DatosEmpresa/fax"/></p>
                     </td>
-                    <td>
-                        <p></p>
+                    <td colspan="3" style="padding:'10px'">
+                        <br/>
                         <p></p>
                         <p>Fecha: <xsl:value-of select="facturación/factura/DatosFacturaEmpresa/fecha"/></p>
                         <p>Pedido: <xsl:value-of select="facturación/factura/DatosFacturaEmpresa/numeroPedido"/></p>
