@@ -16,7 +16,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
                     <td>
                         <p><xsl:value-of select="facturación/factura/DatosEmpresa/nombre"/></p>
                         <p><xsl:value-of select="facturación/factura/DatosEmpresa/calle"/></p>
-                        <p><xsl:value-of select="facturación/factura/DatosEmpresa/poblacion"/>  <xsl:value-of select="facturación/factura/DatosEmpresa/codigoPostal"/></p>
+                        <p><xsl:value-of select="facturación/factura/DatosEmpresa/poblacion"/>-<xsl:value-of select="facturación/factura/DatosEmpresa/codigoPostal"/></p>
                         <p>C.I.F.: <xsl:value-of select="facturación/factura/DatosEmpresa/cif"/></p>
                         <p>Teléfono: <xsl:value-of select="facturación/factura/DatosEmpresa/telefono"/></p>
                         <p>Fax: <xsl:value-of select="facturación/factura/DatosEmpresa/fax"/></p>
