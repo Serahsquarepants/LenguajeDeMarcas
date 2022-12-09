@@ -22,7 +22,11 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
                         <p>Fax: <xsl:value-of select="facturación/factura/DatosEmpresa/fax"/></p>
                     </td>
                     <td>
-
+                        <p></p>
+                        <p></p>
+                        <p>Fecha: <xsl:value-of select="facturación/factura/DatosFacturaEmpresa/fecha"/></p>
+                        <p>Pedido: <xsl:value-of select="facturación/factura/DatosFacturaEmpresa/numeroPedido"/></p>
+                        <p>Forma de Pago: <xsl:value-of select="facturación/factura/DatosFacturaEmpresa/formaPago"/></p>
                     </td>
                 </tr>
             </table>
