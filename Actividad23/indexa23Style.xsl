@@ -8,9 +8,17 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
             <title>Actividad 23</title>
         </head>  
         <body>
-            <table colspan="6" border="2" style="text-align:justify">
+            <table border="2" style="text-align:justify">
                 <tr>
-                    <th>Factura nº <xsl:value-of select="facturación/factura/@numero"/></th>
+                    <th colspan="6">Factura nº <xsl:value-of select="facturación/factura/@numero"/></th>
+                </tr>
+                <tr>
+                    <td>
+                        <p><xsl:value-of select="facturación/factura/DatosEmpresa/nombre"/></p>
+                    </td>
+                    <td>
+
+                    </td>
                 </tr>
             </table>
         </body> 
