@@ -70,7 +70,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
                 </tr>
                 <br/>
                 <tr>
-                    <td>chimbala</td>
+                    <td colspan="2"><xsl:value-of select="facturación/factura/pago/baseImponible"/></td>
                 </tr>
             </table>
         </body> 
