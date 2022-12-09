@@ -69,7 +69,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
                     <th colspan="2">Cuota I.V.A.</th>
                 </tr>
                 <tr>
-                    <td colspan="6" style="border-left-color:white;border-right-color:white">    </td>
+                    <td colspan="6" style="border-left-color:white;border-right-color:white"> h</td>
                 </tr>
             </table>
         </body> 
