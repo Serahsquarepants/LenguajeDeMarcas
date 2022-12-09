@@ -24,9 +24,9 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
                     <td colspan="3" style="padding:'10px'">
                         <br/>
                         <br/>
-                        <p>Fecha: <xsl:value-of select="facturación/factura/DatosFacturaEmpresa/fecha"/></p>
-                        <p>Pedido: <xsl:value-of select="facturación/factura/DatosFacturaEmpresa/numeroPedido"/></p>
-                        <p>Forma de Pago: <xsl:value-of select="facturación/factura/DatosFacturaEmpresa/formaPago"/></p>
+                        Fecha: <xsl:value-of select="facturación/factura/DatosFacturaEmpresa/fecha"/>
+                        <br/>Pedido: <xsl:value-of select="facturación/factura/DatosFacturaEmpresa/numeroPedido"/>
+                        Forma de Pago: <xsl:value-of select="facturación/factura/DatosFacturaEmpresa/formaPago"/>
                     </td>
                 </tr>
                 <tr>
@@ -34,12 +34,12 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
                 </tr>
                 <tr>
                     <td colspan="6">
-                        <p>nº Cliente: <xsl:value-of select="facturación/factura/DatosCliente/numeroCliente"/></p>
-                        <p>Nombre: <xsl:value-of select="facturación/factura/DatosCliente/nombre"/></p>
-                        <p>Dirección de envío: <xsl:value-of select="facturación/factura/DatosCliente/direcciónEnvio"/></p>
-                        <p>Población: <xsl:value-of select="facturación/factura/DatosCliente/poblacion"/></p>
-                        <p>Código Postal: <xsl:value-of select="facturación/factura/DatosCliente/codigoPostal"/></p>
-                        <p>Provincia: <xsl:value-of select="facturación/factura/DatosCliente/provincia"/></p>
+                        nº Cliente: <xsl:value-of select="facturación/factura/DatosCliente/numeroCliente"/>
+                        <br/>Nombre: <xsl:value-of select="facturación/factura/DatosCliente/nombre"/>
+                        <br/>Dirección de envío: <xsl:value-of select="facturación/factura/DatosCliente/direcciónEnvio"/>
+                        <br/>Población: <xsl:value-of select="facturación/factura/DatosCliente/poblacion"/>
+                        <br/>Código Postal: <xsl:value-of select="facturación/factura/DatosCliente/codigoPostal"/>
+                        <br/>Provincia: <xsl:value-of select="facturación/factura/DatosCliente/provincia"/>
                     </td>
                 </tr>
                 <tr>
