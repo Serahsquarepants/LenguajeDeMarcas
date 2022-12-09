@@ -14,19 +14,19 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
                 </tr>
                 <tr>
                     <td colspan="3" style="padding:'10px'">
-                        <p><xsl:value-of select="facturación/factura/DatosEmpresa/nombre"/>
+                        <xsl:value-of select="facturación/factura/DatosEmpresa/nombre"/>
                         <br/><xsl:value-of select="facturación/factura/DatosEmpresa/calle"/>
                         <br/><xsl:value-of select="facturación/factura/DatosEmpresa/poblacion"/><xsl:value-of select="facturación/factura/DatosEmpresa/codigoPostal"/>
                         <br/>C.I.F.: <xsl:value-of select="facturación/factura/DatosEmpresa/cif"/>
                         <br/>Teléfono: <xsl:value-of select="facturación/factura/DatosEmpresa/telefono"/>
-                        <br/>Fax: <xsl:value-of select="facturación/factura/DatosEmpresa/fax"/></p>
+                        <br/>Fax: <xsl:value-of select="facturación/factura/DatosEmpresa/fax"/>
                     </td>
                     <td colspan="3" style="padding:'10px'">
                         <br/>
                         <br/>
                         Fecha: <xsl:value-of select="facturación/factura/DatosFacturaEmpresa/fecha"/>
                         <br/>Pedido: <xsl:value-of select="facturación/factura/DatosFacturaEmpresa/numeroPedido"/>
-                        Forma de Pago: <xsl:value-of select="facturación/factura/DatosFacturaEmpresa/formaPago"/>
+                        <br/>Forma de Pago: <xsl:value-of select="facturación/factura/DatosFacturaEmpresa/formaPago"/>
                     </td>
                 </tr>
                 <tr>
