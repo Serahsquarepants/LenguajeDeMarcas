@@ -29,6 +29,19 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
                         <p>Forma de Pago: <xsl:value-of select="facturación/factura/DatosFacturaEmpresa/formaPago"/></p>
                     </td>
                 </tr>
+                <tr>
+                    <th>Datos CLIENTE</th>
+                </tr>
+                <tr>
+                    <td>
+                        <p>nº Cliente: <xsl:value-of select="facturación/factura/DatosCliente/numeroCliente"/></p>
+                        <p>Nombre: <xsl:value-of select="facturación/factura/DatosCliente/nombre"/></p>
+                        <p>Dirección de envío: <xsl:value-of select="facturación/factura/DatosCliente/direcciónEnvio"/></p>
+                        <p>Población: <xsl:value-of select="facturación/factura/DatosCliente/poblacion"/></p>
+                        <p>Código Postal: <xsl:value-of select="facturación/factura/DatosCliente/codigoPostal"/></p>
+                        <p>Provincia: <xsl:value-of select="facturación/factura/DatosCliente/provincia"/></p>
+                    </td>
+                </tr>
             </table>
         </body> 
     </html>
