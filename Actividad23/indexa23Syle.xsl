@@ -9,7 +9,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
         </head>  
         <body>
             <xsl:for-each match="factura">
-                <table> <!--Tabla principal-->
+                <table style="border=2px"> <!--Tabla principal-->
                     <tr>
                         <th colspan="6" style="text-align: center">
                             FACTURA nº <xsl:value-of select="@numero"/>
