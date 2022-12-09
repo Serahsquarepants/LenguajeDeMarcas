@@ -42,6 +42,17 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
                         <p>Provincia: <xsl:value-of select="facturación/factura/DatosCliente/provincia"/></p>
                     </td>
                 </tr>
+                <tr>
+                    <th colspan="6">Datos FACTURA</th>
+                </tr>
+                <tr> <!--Estáticos-->
+                    <th style="text-align:right">REF.</th>
+                    <th style="text-align:right">Descripción</th>
+                    <th style="text-align:right">Cant.</th>
+                    <th style="text-align:right">Precio</th>
+                    <th style="text-align:right">I.V.A.</th>
+                    <th style="text-align:right">Importe</th>
+                </tr>
             </table>
         </body> 
     </html>
