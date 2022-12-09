@@ -59,7 +59,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
                         <td><xsl:value-of select="descripcion"/></td>
                         <td><xsl:value-of select="cantidad"/></td>
                         <td><xsl:value-of select="precio"/></td>
-                        <td><xsl:value-of select="iva/@tipo='producto'"/></td>
+                        <td><xsl:value-of select="iva"/></td>
                         <td><xsl:value-of select="importe"/></td>
                     </tr>
                 </xsl:for-each>
