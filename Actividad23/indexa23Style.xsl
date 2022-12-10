@@ -71,6 +71,11 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
                 <br/>
                 <tr>
                     <td colspan="2"><xsl:value-of select="facturación/factura/pago/baseImponible"/></td>
+                    <td colspan="2"><xsl:value-of select="facturación/factura/pago/iva"/></td>
+                    <td colspan="2"><xsl:value-of select="facturación/factura/pago/cuotaIva"/></td>
+                </tr>
+                <tr>
+                    <th style="text-align:center">TOTAL FACTURA: <xsl:value-of select="facturación/factura/pago/totalFactura"/></th>
                 </tr>
             </table>
         </body> 
