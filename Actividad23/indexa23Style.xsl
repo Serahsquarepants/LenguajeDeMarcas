@@ -55,12 +55,12 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
                 </tr>
                 <xsl:for-each select="facturación/factura/DatosFacturaCliente">
                     <tr>
-                        <td><xsl:value-of select="ref"/></td>
-                        <td><xsl:value-of select="descripcion"/></td>
-                        <td><xsl:value-of select="cantidad"/></td>
-                        <td><xsl:value-of select="precio"/></td>
-                        <td><xsl:value-of select="iva"/></td>
-                        <td><xsl:value-of select="importe"/></td>
+                        <td style="text-align:right"><xsl:value-of select="ref"/></td>
+                        <td style="text-align:right"><xsl:value-of select="descripcion"/></td>
+                        <td style="text-align:right"><xsl:value-of select="cantidad"/></td>
+                        <td style="text-align:right"><xsl:value-of select="precio"/></td>
+                        <td style="text-align:right"><xsl:value-of select="iva"/></td>
+                        <td style="text-align:right"><xsl:value-of select="importe"/></td>
                     </tr>
                 </xsl:for-each>
                 <tr>
