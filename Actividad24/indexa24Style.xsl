@@ -8,11 +8,11 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
           "CD": [
                 <xsl:for-each select="CDsOferta/CD">
                     {
-                        "título": "<xsl:value-of select="título"/>" 
-                        "artista": "<xsl:value-of select="artista"/>"
-                        "pais": "<xsl:value-of select="pais"/>"
-                        "compañía": "<xsl:value-of select="compañía"/>"
-                        "precio": "<xsl:value-of select="precio"/>"
+                        "título": "<xsl:value-of select="título"/>", 
+                        "artista": "<xsl:value-of select="artista"/>",
+                        "pais": "<xsl:value-of select="pais"/>",
+                        "compañía": "<xsl:value-of select="compañía"/>",
+                        "precio": "<xsl:value-of select="precio"/>",
                         "año": "<xsl:value-of select="año"/>"
                     }<xsl:if test="position() &lt; last()">,</xsl:if>
                 </xsl:for-each>
