@@ -6,7 +6,6 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
     {
         "CDsOferta": {
           "CD": [
-            {
                 <xsl:for-each select="CDsOferta/CD">
                     {
                         "título": "<xsl:value-of select="título"/>" 
@@ -17,7 +16,6 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
                         "año": "<xsl:value-of select="año"/>"
                     }<xsl:if test="position() &lt; last()">,</xsl:if>
                 </xsl:for-each>
-            }
           ]
         }
     }
