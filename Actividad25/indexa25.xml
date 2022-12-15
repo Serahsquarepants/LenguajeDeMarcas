@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="indexa25Style.xsl"?>
+<?xml-model href="indexa25.xsd"?>
+
+<facturación > 
+    <factura numero="999">
+        <DatosEmpresa>
+            <nombre id="empresa">Equipos Digitales S.L.</nombre>
+            <calle>Av. Valladolid</calle>
+            <poblacion>Madrid</poblacion>
+            <codigoPostal>28015</codigoPostal>
+            <cif>Q-9876543</cif>
+            <telefono>91.777.66.88</telefono>
+            <fax>91.777.66.88</fax>             
+        </DatosEmpresa>
+
+        <DatosFacturaEmpresa>
+            <fecha>12-01-2005</fecha>
+            <numeroPedido>731</numeroPedido>
+            <formaPago>EFECTIVO</formaPago>
+        </DatosFacturaEmpresa>    
+
+        <DatosCliente>
+            <numeroCliente>879</numeroCliente>
+            <nombre id="cliente">Darío Bueno Gutiérrez</nombre>
+            <direcciónEnvio>Av. Oporto nº7 y 4ºd</direcciónEnvio>
+            <poblacion>Madrid</poblacion>
+            <codigoPostal>28043</codigoPostal>
+            <provincia>Madrid</provincia>
+        </DatosCliente>    
+
+        <DatosFacturaCliente idDatosFactura="1">
+            <ref>MII93000F/8</ref>
+            <descripcion>MICRO PENTIUM IV 3000MHZ FB800</descripcion>
+            <cantidad>1</cantidad>
+            <precio>230 eur.</precio>
+            <iva tipo="producto">16,0</iva>
+            <importe>266,80 eur.</importe>
+        </DatosFacturaCliente>
+        
+        <DatosFacturaCliente idDatosFactura="2">
+            <ref>MB8QDIP4</ref>
+            <descripcion>PLACA BASE QDI P4</descripcion>
+            <cantidad>1</cantidad>
+            <precio>180 eur.</precio>
+            <iva tipo="producto">16,0</iva>
+            <importe>208,80</importe>
+        </DatosFacturaCliente>    
+
+        <DatosFacturaCliente idDatosFactura="3">
+            <ref>MEDD512M32</ref>
+            <descripcion>DIMM DDR 512MB 3200</descripcion>
+            <cantidad>2</cantidad>
+            <precio>40 eur.</precio>
+            <iva tipo="producto">16,0</iva>
+            <importe>92,80 eur.</importe>
+        </DatosFacturaCliente>    
+
+        <DatosFacturaCliente idDatosFactura="4">
+            <ref>HD250GSA7</ref>
+            <descripcion>DISCO DURO 250GB S-ATA 7200</descripcion>
+            <cantidad>4</cantidad>
+            <precio>120 eur.</precio>
+            <iva tipo="producto">16,0</iva>
+            <importe>556,80 eur</importe>
+        </DatosFacturaCliente>    
+
+        <pago>
+            <baseImponible>970,00 eur.</baseImponible>
+            <iva tipo="total">16,0</iva>
+            <cuotaIva>155,20 eur.</cuotaIva>
+            <totalFactura>1125,20 eur.</totalFactura>
+        </pago>    
+    
+    </factura>
+</facturación>   
