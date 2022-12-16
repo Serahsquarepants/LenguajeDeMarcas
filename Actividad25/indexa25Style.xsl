@@ -25,14 +25,13 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
                 codigoPostal: <xsl:value-of select="DatosCliente/codigoPostal"/>
                 provincia: <xsl:value-of select="DatosCliente/provincia"/>
             DatosFacturaCliente:
-            DatosFacturaCliente:
             <xsl:for-each select="DatosFacturaCliente">
               - ref: <xsl:value-of select="ref"/>
-              descripcion: <xsl:value-of select="descripcion"/>
-              cantidad: <xsl:value-of select="cantidad"/>
-              precio: <xsl:value-of select="precio"/>
-              iva: <xsl:value-of select="iva"/>
-              importe: <xsl:value-of select="importe"/>
+                descripcion: <xsl:value-of select="descripcion"/>
+                cantidad: <xsl:value-of select="cantidad"/>
+                precio: <xsl:value-of select="precio"/>
+                iva: <xsl:value-of select="iva"/>
+                importe: <xsl:value-of select="importe"/>
             </xsl:for-each>   
             pago:
                 baseImponible: <xsl:value-of select="pago/baseImponible"/>
