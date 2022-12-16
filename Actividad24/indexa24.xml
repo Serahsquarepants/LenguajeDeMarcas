@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="indexa24Style.xsl"?>
-<?xml-model href="indexa24.xsd"?>
+<?xml-model href="indexa24Schema.xsd"?>
 
 <CDsOferta>
     <CD id="1">
