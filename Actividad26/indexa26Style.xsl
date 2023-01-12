@@ -70,20 +70,6 @@
             </head>
 
             <body>
-                <!--Cabecera de color gris oscuro, lo utilizo como información personal y contextualización del trabajo-->
-                <!--<header>
-                    <div class="collapse bg-dark" id="navbarHeader">
-                        <div class="container">
-                            <div class="row">
-                                <div class="col-sm-8 col-md-7 py-4">
-                                    <h4 class="text-white">Información</h4>
-                                    <p class="text-muted">Actividad 26 de Lenguaje de Marcas, 1r Dam. El objetivo es transformar un archivo RSS en un HTML utilizando XSL para que se vea como la portada de un periódico</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </header>-->
-
                 <main>
                     <section class="py-5 text-center container">
                         <div class="row py-lg-5">

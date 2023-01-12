@@ -1,6 +1,9 @@
 # LenguajeDeMarcas
 
-Mi página de Netlify es: https://main--eclectic-monstera-7c1d02.netlify.app/
+Mi página de Netlify es: https://main--exquisite-pika-45f4be.netlify.app/
+
+ACTUALIZACIÓN 12/1/23 (20:28) Tiempo consumido 7h:
+    · Actividad 26 acabada.
 
 ACTUALIZACIÓN 16/12/2022 (11:00h) Tiempo consumido 2h 30 min:
     · Actividad 24 acabada.
