@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="indexa26Style.xsl"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+<rss version="2.0"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>EL PAÍS: el periódico global</title>
     <description>Noticias de última hora sobre la actualidad en España y el mundo: política, economía, deportes, cultura, sociedad, tecnología, gente, opinión, viajes, moda, televisión, los blogs y las firmas de EL PAÍS. Además especiales, vídeos, fotos, audios, gráficos, entrevistas, promociones y todos los servicios de EL PAÍS.</description>
@@ -37,10 +42,10 @@
         <media:title>Bolaños pide al PP que retire su recurso ante el Constitucional</media:title>
         <media:text>El ministro de Presidencia, Félix Bolaños, interviene durante la sesión de control del Gobierno, este miércoles en el Congreso.
 
-</media:text>
-<media:description>El ministro de Presidencia, Félix Bolaños, interviene durante la sesión de control del Gobierno, este miércoles en el Congreso.
+        </media:text>
+        <media:description>El ministro de Presidencia, Félix Bolaños, interviene durante la sesión de control del Gobierno, este miércoles en el Congreso.
 
-</media:description>
+        </media:description>
         <media:thumbnail url="https://cloudfront-eu-central-1.images.arcpublishing.com/prisa/7KYXDC4SYIVUZAHT6NXSIWMCCQ.jpg"/>
       </media:content>
       <content:encoded>&lt;p&gt;El Gobierno está convencido de que la mayoría conservadora del Tribunal Constitucional se dispone el lunes a paralizar la tramitación de una reforma legal cuando aún no ha sido aprobada en las Cortes, algo inédito y de consecuencias impredecibles. Por eso, para evitar que estalle esta crisis constitucional, el ministro de la Presidencia, Félix Bolaños, ha pedido al PP que retire “hoy mismo” &lt;a href="https://elpais.com/espana/2022-12-15/lea-el-recurso-del-pp-para-que-el-constitucional-paralice-las-reformas-legales-que-hoy-vota-el-congreso.html" target="_blank"&gt;el recurso de amparo que dirigió al Constitucional&lt;/a&gt; para paralizar las reformas legales en las que se han introducido dos enmiendas para desbloquear &lt;a href="https://elpais.com/espana/2022-12-15/las-claves-de-una-jornada-decisiva-en-el-congreso-y-en-el-tribunal-constitucional.html"&gt;la renovación del Tribunal Constitucional&lt;/a&gt;. El Congreso de los diputados pudo votar ayer las enmiendas, pero para entrar en vigor aún están pendientes de superar la votación en el Senado, prevista para el próximo jueves. Eso es lo que podría impedir la mayoría conservadora del Constitucional de seis magistrados, frente a los cinco progresistas que están en contra de que prospere la petición del PP para que se frene, de forma cautelar, la iniciativa del Gobierno. “Ha ido demasiado lejos tensionando las instituciones democráticas”, ha asegurado el ministro Bolaños, en una comparecencia ante los medios en el Ateneo de Madrid. “Nadie puede parar una votación de diputados y diputadas elegidos democráticamente”, ha añadido.&lt;/p&gt;&lt;p&gt;&lt;a href="https://elpais.com/espana/2022-12-16/bolanos-pide-al-pp-que-retire-el-recurso-al-constitucional-hoy-mismo-ha-ido-demasiado-lejos.html" target="_blank"&gt;Seguir leyendo&lt;/a&gt;&lt;/p&gt;</content:encoded>
@@ -289,10 +294,10 @@
         <media:title>Tráiler de la película 'As bestas'</media:title>
         <media:text>El actor Diego Anido, retratado en el Teatro del Barrio de Madrid.
 
-</media:text>
+        </media:text>
         <media:description>El actor Diego Anido, retratado en el Teatro del Barrio de Madrid.
 
-</media:description>
+        </media:description>
         <media:thumbnail url="https://cloudfront-eu-central-1.images.arcpublishing.com/prisa/M6XSYOGVCJFDDLMQEWA4HFQF3A.JPG"/>
       </media:content>
       <content:encoded>&lt;p&gt;Diego Anido es conocido desde hace dos décadas en los circuitos de teatro de vanguardia. Por un lado, por sus trabajos en la &lt;a href="https://www.srserrano.com/es/" target="_blank"&gt;Agrupación Señor Serrano&lt;/a&gt;, unas de las compañías españolas de mayor proyección internacional, ganadora del León de Plata de la Bienal de Venecia en 2015. Por otro, por sus singulares espectáculos unipersonales. Ha estrenado cinco desde 2005 y estos días presenta dos (&lt;a href="https://teatrodelbarrio.com/el-dios-del-pop/"&gt;&lt;i&gt;El dios del pop&lt;/i&gt;&lt;/a&gt;&lt;i&gt; &lt;/i&gt;y &lt;a href="https://teatrodelbarrio.com/el-aleman/"&gt;&lt;i&gt;El alemán&lt;/i&gt;&lt;/a&gt;) en el Teatro del Barrio de Madrid. Pero el gran público empieza a conocerlo ahora por su participación en &lt;i&gt;As bestas, &lt;/i&gt;la película de Rodrigo Sorogoyen que parte&lt;a href="https://elpais.com/cultura/2022-12-01/as-bestas-de-rodrigo-sorogoyen-lidera-la-carrera-a-los-premios-goya-2023-con-17-nominaciones.html" target="_blank"&gt; en los próximos Goya&lt;/a&gt; con nada menos que 17 nominaciones. Una de ellas es la suya en la categoría de mejor actor de reparto. Nacido hace 46 años en Santiago de Compostela, conoce bien el ecosistema en el que se desarrolla el filme, una aldea de la Galicia profunda en la que estalla el conflicto entre lo rural y lo urbano.&lt;/p&gt;&lt;p&gt;&lt;a href="https://elpais.com/cultura/2022-12-16/diego-anido-actor-de-as-bestas-se-habla-mucho-de-lo-bonito-que-es-escapar-de-la-ciudad-pero-no-de-que-luego-muchos-salen-por-patas.html" target="_blank"&gt;Seguir leyendo&lt;/a&gt;&lt;/p&gt;</content:encoded>
@@ -430,10 +435,10 @@
         <media:title>Una guardia civil mata a sus dos hijas de un disparo y después se quita la vida en Quintanar del Rey (Cuenca)</media:title>
         <media:text>Vecinos de Quintanar del Rey guardan un minuto de silencio.
 
-</media:text>
+        </media:text>
         <media:description>Vecinos de Quintanar del Rey guardan un minuto de silencio.
 
-</media:description>
+        </media:description>
         <media:thumbnail url="https://cloudfront-eu-central-1.images.arcpublishing.com/prisa/DT2MHUIVGBBJ5KRYLLY35PR7AI.jpg"/>
       </media:content>
       <content:encoded>&lt;p&gt;Santiago Escribano había acudido por la mañana a su trabajo en una obra como cualquier día, cuando una llamada rompió su vida para siempre. Respondió su jefe y al otro lado estaba un proveedor de materiales: “Estoy oyendo en las noticias que una guardia civil ha matado a sus dos hijas en el pueblo”. No se lo podía creer. Rápidamente, se montaron en el coche y, durante el trayecto, Santiago no paraba de decir: “Ya la ha montado”. En apenas unos minutos, estaban a las puertas de la casa cuartel, situada a las afueras del pueblo conquense de Quintanar del Rey, donde vivían sus pequeñas, Lara e Iris, de 11 y 9 años, con su madre Paola Bufor, agente del cuerpo y con quien estaba en trámites de divorcio. Al llegar a las puertas del complejo, las esperanzas de que las noticias se hubieran equivocado se desvanecieron. Se trataba de ellas. &lt;a href="https://elpais.com/sociedad/2022-12-15/una-guardia-civil-mata-a-tiros-a-sus-dos-hijas-en-un-pueblo-de-cuenca.html?event_log=oklogin" target="_blank"&gt;Su expareja las había asesinado con su arma reglamentaria y, después, se había suicidado. &lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://elpais.com/sociedad/2022-12-16/la-ultima-manana-de-las-pequenas-iris-y-lara.html" target="_blank"&gt;Seguir leyendo&lt;/a&gt;&lt;/p&gt;</content:encoded>
@@ -460,10 +465,10 @@
         <media:title>Al menos 10 muertos, entre ellos cinco niños, en un incendio de siete pisos en Lyon (Francia)</media:title>
         <media:text>Personal sanitario cerca del bloque de viviendas incendiado en Vaux-en-Velin, a las afueras de Lyon, este viernes.
 
-</media:text>
+        </media:text>
         <media:description>Personal sanitario cerca del bloque de viviendas incendiado en Vaux-en-Velin, a las afueras de Lyon, este viernes.
 
-</media:description>
+        </media:description>
         <media:thumbnail url="https://cloudfront-eu-central-1.images.arcpublishing.com/prisa/ODFIOFMKN5H4VG65XUKA3I3P3Q.jpg"/>
       </media:content>
       <content:encoded>&lt;p&gt;Diez personas, entre ellas cinco niños, han muerto esta madrugada en un incendio en un edificio de siete pisos en Vaulx-en-Velin, una ciudad de 50.000 habitantes a las afueras de Lyon (Francia). Las causas se desconocen. El incendio se ha declarado en el inmueble en torno a las 3.12 de este viernes, según un comunicado de la prefectura de la región Auvernia-Ródano-Alpes. Los bomberos llegaron 13 minutos después. Se desplegaron 170 efectivos de este cuerpo y 65 vehículos. A las 7.00, el fuego estaba controlado. La fiscalía de Lyon ha abierto una investigación.&lt;/p&gt;&lt;p&gt;&lt;a href="https://elpais.com/internacional/2022-12-16/al-menos-10-muertos-cinco-de-ellos-ninos-en-un-incendio-en-un-edificio-residencial-cerca-de-lyon.html" target="_blank"&gt;Seguir leyendo&lt;/a&gt;&lt;/p&gt;</content:encoded>
@@ -1605,10 +1610,10 @@ Tras la estrella indiscutible del fútbol español, Alexia Putellas (28 años), 
         <media:title>Tráiler de las sexta temporada de 'Outlander'</media:title>
         <media:text>El actor Sam Heughan, el miércoles en Madrid.
 
-</media:text>
+        </media:text>
         <media:description>El actor Sam Heughan, el miércoles en Madrid.
 
-</media:description>
+        </media:description>
         <media:thumbnail url="https://cloudfront-eu-central-1.images.arcpublishing.com/prisa/5FO3AM56XND7ZGMRSDWD26QO7Q.jpg"/>
       </media:content>
       <content:encoded>&lt;p&gt;Cuando se presentó a las audiciones de &lt;a href="https://elpais.com/cultura/2015/03/31/television/1427824732_514847.html" target="_blank"&gt;&lt;i&gt;Outlander&lt;/i&gt;&lt;/a&gt;, a &lt;a href="https://elpais.com/cultura/2018/12/14/television/1544805812_895735.html" target="_blank"&gt;Sam Heughan&lt;/a&gt; (Balmaclellan, Escocia, 42 años) ni le sonaban &lt;a href="https://elpais.com/cultura/2022-07-11/outlander-la-historia-de-amor-de-200-anos-prepara-en-espana-su-recta-final.html" target="_blank"&gt;los libros con los que Diana Gabaldon&lt;/a&gt; ya había vendido más de 20 millones de ejemplares en todo el mundo. Así que Heughan se puso las pilas, compró la primera novela y la leyó. Entonces era un actor desconocido que había hecho sobre todo teatro, pero su planta y sus raíces escocesas ayudaron a que fuera el seleccionado para encarnar a Jamie Fraser, un joven guerrero escocés del siglo XVIII cuyo camino se cruza con el de una enfermera del siglo XX que ha viajado en el tiempo. “Recuerdo que el primer día de rodaje, el conductor que me llevaba me preguntó cuánto tiempo pensaba que iba a durar la serie. Le dije que un año, quizá dos… Ya vamos por siete temporadas, ocho años. Ha sido un viaje increíble y ha pasado volando”, decía este miércoles Heughan.&lt;/p&gt;&lt;p&gt;&lt;a href="https://elpais.com/television/2022-12-16/sam-heughan-la-coordinadora-de-intimidad-de-outlander-nos-ha-dado-ideas-para-hacer-escenas-mas-apasionadas.html" target="_blank"&gt;Seguir leyendo&lt;/a&gt;&lt;/p&gt;&lt;img src="https://cloudfront-eu-central-1.images.arcpublishing.com/prisa/2QIGP5TXZNFDVIKZNHLBH5F7OE.jpg" width="2560" height="1707" alt="Sam Heughan y Caitriona Balfe, en la sexta temporada de 'Outlander'."&gt;&lt;/img&gt;</content:encoded>
@@ -1965,10 +1970,10 @@ Tras la estrella indiscutible del fútbol español, Alexia Putellas (28 años), 
         <media:title>Videoanálisis: Cuatro propuestas para evitar otro 'Qatargate' en la UE</media:title>
         <media:text>La presidenta del Parlamento Europeo, Roberta Metsola, tras una conferencia de prensa en Bruselas, este jueves. En la imagen, junto a Jaume Duch, director general de Comunicación de la Eurocámara.
 
-</media:text>
+        </media:text>
         <media:description>La presidenta del Parlamento Europeo, Roberta Metsola, tras una conferencia de prensa en Bruselas, este jueves. En la imagen, junto a Jaume Duch, director general de Comunicación de la Eurocámara.
 
-</media:description>
+        </media:description>
         <media:thumbnail url="https://cloudfront-eu-central-1.images.arcpublishing.com/prisa/EDN6WAPJOWLWZO5SOPIER3XGCM.jpg"/>
       </media:content>
       <content:encoded>&lt;p&gt;El &lt;a href="https://elpais.com/noticias/qatargate/" target="_blank"&gt;escándalo de los sobornos&lt;/a&gt; en el Parlamento Europeo, que desvela las grietas en una Cámara que se había autoerigido como autoridad moral de la UE, está forzando a sus líderes a reaccionar a contrapié. La presidenta de la Eurocámara, Roberta Metsola, y la cúpula de la institución trabajan en un plan de 10 medidas para combatir la corrupción que plantea, por ejemplo, más mecanismos de protección para quienes informen de irregularidades dentro de la institución, un nuevo “registro obligatorio de transparencia” de todas las reuniones con países de fuera de la UE o imponer un control de los contactos que tienen los eurodiputados con grupos de presión y organizaciones de países de fuera de la Unión Europea, según la propuesta a la que ha tenido acceso EL PAÍS. Algunas de las medidas se pueden adoptar de forma unilateral, desde la presidencia; otras las tendrá que debatir con la mesa o la conferencia de presidentes. También hay puntos que tendrán que votarse y que, como el que plantea más control sobre los contactos de los legisladores, podrían chocar con la oposición de algunos en la Eurocámara.&lt;/p&gt;&lt;p&gt;&lt;a href="https://elpais.com/internacional/2022-12-15/la-presidenta-del-parlamento-europeo-plantea-controlar-los-contactos-de-los-eurodiputados-con-paises-ajenos-a-la-ue-tras-el-qatargate.html" target="_blank"&gt;Seguir leyendo&lt;/a&gt;&lt;/p&gt;</content:encoded>
