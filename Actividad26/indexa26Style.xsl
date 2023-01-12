@@ -91,14 +91,14 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
                 <div class="row py-lg-5">
                 <div class="col-lg-6 col-md-8 mx-auto">
                     <!--Zona del título, contiene el título, la descripción, fecha y otros datos únicos-->
-                    <h1 class="fw-light"><xsl:value-of select="channel/title"/></h1> 
-                    <p class="lead text-muted"><xsl:value-of select="channel/description"/></p>
+                    <h1 class="fw-light"><xsl:value-of select="rss/channel/title"/></h1> 
+                    <p class="lead text-muted"><xsl:value-of select="rss/channel/description"/></p>
                     <p>
-                        <a href="{channel/link}" class="btn btn-secondary my-2">Página Principal</a>
+                        <a href="{rss/channel/link}" class="btn btn-secondary my-2">Página Principal</a>
                         <br/>
                         <p>
-                            <xsl:value-of select="channel/lastBuildDate"/>  
-                            <xsl:value-of select="channel/language"/>
+                            <xsl:value-of select="rss/channel/lastBuildDate"/>  
+                            <xsl:value-of select="rss/channel/language"/>
                         </p>
                     </p>
                 </div>
