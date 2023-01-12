@@ -109,8 +109,8 @@
                                     <div class="col">
                                         <div class="card shadow-sm">
                                             
-                                                <img  src="{@url}" alt="{media:description}" class="bd-placeholder-img card-img-top" width="100%" height="225"/>
-                                            
+                                                <!--<img  src="{@url}" alt="{media:description}" class="bd-placeholder-img card-img-top" width="100%" height="225"/>
+                                                -->
                                             <div class="card-body">
                                                 <p class="card-text">
                                                     <xsl:value-of select="title"/>
