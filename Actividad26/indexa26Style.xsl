@@ -124,14 +124,14 @@
                                             </svg>
                                             <div class="card-body">
                                                 <p class="card-text">
-                                                    <xsl:value-of select="title"/>
+                                                    <xsl:value-of select="/title"/>
                                                 </p>
                                                 <div class="d-flex justify-content-between align-items-center">
                                                     <div class="btn-group">
                                                         <a href="{link}">Leer más</a>
                                                     </div>
                                                     <small class="text-muted">
-                                                        <xsl:value-of select="pubDate"/>
+                                                        <xsl:value-of select="/pubDate"/>
                                                     </small>
                                                 </div>
                                             </div>
