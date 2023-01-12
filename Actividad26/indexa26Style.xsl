@@ -5,8 +5,8 @@
 <xsl:stylesheet version="1.0"
 xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 
-    <xsl:template match="/">
-    <html lang="en">
+<xsl:template match="/">
+    <html lang="es">
       <head>
         <title>Lo País</title>
         <link rel="canonical" href="https://getbootstrap.com/docs/5.2/examples/album/"/>
@@ -114,16 +114,16 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
                                         <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
                                             <title>Placeholder</title>
                                             <rect width="100%" height="100%" fill="#55595c"/>
-                                            <text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text>
+                                            <text x="50%" y="50%" fill="#eceeef" dy=".3em"></text>
                                             <img src="{@url}" alt="{media:description}" width="100%" height="100%"/>
                                         </svg>                                
                                         <div class="card-body">
-                                            <p class="card-text"><xsl:value-of select="/title"/></p>
+                                            <p class="card-text"><xsl:value-of select="title"/></p>
                                             <div class="d-flex justify-content-between align-items-center">
                                                 <div class="btn-group">
                                                     <a href="{link}">Leer más</a>
                                                 </div>
-                                                <small class="text-muted"><xsl:value-of select="/pubDate"/></small>
+                                                <small class="text-muted"><xsl:value-of select="pubDate"/></small>
                                             </div>
                                         </div>
                                     </div>
@@ -135,11 +135,6 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
         </main>
         
         <footer class="text-muted py-5">
-            <div class="container">
-                <p class="float-end mb-1">
-                    <a href="#">Back to top</a>
-                </p>
-            </div>
         </footer>
             <script src="/docs/5.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
       </body>
