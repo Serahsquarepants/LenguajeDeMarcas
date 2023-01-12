@@ -92,17 +92,17 @@
                             <div class="col-lg-6 col-md-8 mx-auto">
                                 <!--Zona del título, contiene el título, la descripción, fecha y otros datos únicos-->
                                 <h1 class="fw-light">
-                                    <xsl:value-of select="rss/channel/title"/>
+                                    <xsl:value-of select="/rss/channel/title"/>
                                 </h1>
                                 <p class="lead text-muted">
-                                    <xsl:value-of select="rss/channel/description"/>
+                                    <xsl:value-of select="/rss/channel/description"/>
                                 </p>
                                 <p>
-                                    <a href="{rss/channel/link}" class="btn btn-secondary my-2">Página Principal</a>
+                                    <a href="{/rss/channel/link}" class="btn btn-secondary my-2">Página Principal</a>
                                     <br/>
                                     <p>
-                                        <xsl:value-of select="rss/channel/lastBuildDate"/>
-                                        <xsl:value-of select="rss/channel/language"/>
+                                        <xsl:value-of select="/rss/channel/lastBuildDate"/>
+                                        <xsl:value-of select="/rss/channel/language"/>
                                     </p>
                                 </p>
                             </div>
@@ -112,7 +112,7 @@
                     <div class="album py-5 bg-light">
                         <div class="container">
                             <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
-                                <xsl:for-each select="rss/channel/item">
+                                <xsl:for-each select="/rss/channel/item">
                                     <div class="col">
                                         <div class="card shadow-sm">
                                             <svg class="bd-placeholder-img card-img-top" width="100%" height="225"
