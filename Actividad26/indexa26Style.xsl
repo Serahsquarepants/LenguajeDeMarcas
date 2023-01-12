@@ -108,13 +108,13 @@
                                 <xsl:for-each select="/rss/channel/item">
                                     <div class="col">
                                         <div class="card shadow-sm">
-                                            <div class="bd-placeholder-img card-img-top" width="100%" height="225"
+                                            <svg class="bd-placeholder-img card-img-top" width="100%" height="225"
                                                 xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
                                                 <title>Placeholder</title>
                                                 <rect width="100%" height="100%" fill="#55595c"/>
                                                 <text x="50%" y="50%" fill="#eceeef" dy=".3em"></text>
                                                 <!--<img src="{@url}" alt="{media:description}" width="100%" height="100%"/>--> 
-                                            </div>
+                                            </svg>
                                             <div class="card-body">
                                                 <p class="card-text">
                                                     <xsl:value-of select="title"/>
