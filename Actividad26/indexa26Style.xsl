@@ -108,9 +108,11 @@
                                 <xsl:for-each select="rss/channel/item">
                                     <div class="col">
                                         <div class="card shadow-sm">
-                                            
+                                            <xsl:for-each select="media:content">
+                                                <img src="{@url}"/>
                                                 <!--<img  src="{@url}" alt="{media:description}" class="bd-placeholder-img card-img-top" width="100%" height="225"/>
                                                 -->
+                                            </xsl:for-each>    
                                             <div class="card-body">
                                                 <p class="card-text">
                                                     <xsl:value-of select="title"/>
