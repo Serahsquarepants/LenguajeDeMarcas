@@ -71,7 +71,7 @@
 
             <body>
                 <!--Cabecera de color gris oscuro, lo utilizo como información personal y contextualización del trabajo-->
-                <header>
+                <!--<header>
                     <div class="collapse bg-dark" id="navbarHeader">
                         <div class="container">
                             <div class="row">
@@ -82,7 +82,7 @@
                             </div>
                         </div>
                     </div>
-                </header>
+                </header>-->
 
                 <main>
                     <section class="py-5 text-center container">
