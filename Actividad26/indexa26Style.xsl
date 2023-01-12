@@ -113,7 +113,7 @@
                                                 <title>Placeholder</title>
                                                 <rect width="100%" height="100%" fill="#55595c"/>
                                                 <text x="50%" y="50%" fill="#eceeef" dy=".3em"></text>
-                                                <img src="{/media:content/@url}" alt="{/media:content/media:description}" width="100%" height="100%"/> 
+                                                <img src="{/media:content/media:thumbnail/@url}" alt="{/media:content/media:description}" width="100%" height="100%"/> 
                                             </svg> 
                                             <div class="card-body">
                                                 <p class="card-text">
