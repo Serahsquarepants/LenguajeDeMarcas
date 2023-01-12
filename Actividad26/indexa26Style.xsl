@@ -113,7 +113,7 @@
                                                 <title>Placeholder</title>
                                                 <rect width="100%" height="100%" fill="#55595c"/>
                                                 <text x="50%" y="50%" fill="#eceeef" dy=".3em"></text>
-                                                <xsl:for-each select="media:content">
+                                                <xsl:for-each select="media:content/media:thumbnail">
                                                 <img src="{@url}" alt="{media:description}" width="100%" height="100%"/> 
                                                 </xsl:for-each>
                                             </div>
