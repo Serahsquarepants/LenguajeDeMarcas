@@ -5,7 +5,7 @@
     <body>
         <h1 style="text-align: center;">Listado de Libros</h1>
         <br/>
-        <table style="border: 1;">
+        <table style="border: 1px;">
             <tr>
                 <th>Título</th>
                 <th>Editorial</th>
@@ -15,9 +15,9 @@
                 for $libro in doc("index.xml")/bib/libro
                 return
                 <tr>
-                    <td>{data($libro/titulo)}</td>
-                    <td>{data($libro/editorial)}</td>
-                    <td>{data($libro/precio)}</td>
+                    <td style="text-align: left;">{data($libro/titulo)}</td>
+                    <td style="text-align: left;">{data($libro/editorial)}</td>
+                    <td style="text-align: right;">{data($libro/precio)}</td>
                 </tr>
             }
         </table>
