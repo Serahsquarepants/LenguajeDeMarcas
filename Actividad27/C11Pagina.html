@@ -1,0 +1,26 @@
+<html>
+    <head>
+    </head>
+
+    <body>
+        <h1 style="text-align: center;">Listado de Libros</h1>
+        <br/>
+        <table style="border: 1;">
+            <tr>
+                <th>Título</th>
+                <th>Editorial</th>
+                <th>Precio</th>
+            </tr>
+            {
+                for $libro in doc("index.xml")/bib/libro
+                return
+                <tr>
+                    <td>{data($libro/titulo)}</td>
+                    <td>{data($libro/editorial)}</td>
+                    <td>{data($libro/precio)}</td>
+                </tr>
+            }
+        </table>
+    </body>
+
+</html>
