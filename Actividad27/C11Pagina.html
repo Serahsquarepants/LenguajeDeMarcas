@@ -1,23 +1,23 @@
 <html>
     <head>
+        <!--Hubiera preferido que el style estuviera aquí pero me daba error por los :-->
     </head>
-
     <body>
         <h1 style="text-align: center;">Listado de Libros</h1>
         <br/>
-        <table style="border: 1px;">
+        <table style="border: 1px solid;">
             <tr>
-                <th>Título</th>
-                <th>Editorial</th>
-                <th>Precio</th>
+                <th style="border: 1px solid;">Título</th>
+                <th style="border: 1px solid;">Editorial</th>
+                <th style="border: 1px solid;">Precio</th>
             </tr>
             {
                 for $libro in doc("index.xml")/bib/libro
                 return
                 <tr>
-                    <td style="text-align: left;">{data($libro/titulo)}</td>
-                    <td style="text-align: left;">{data($libro/editorial)}</td>
-                    <td style="text-align: right;">{data($libro/precio)}</td>
+                    <td style="text-align: left; border: 1px solid;">{data($libro/titulo)}</td>
+                    <td style="text-align: left; border: 1px solid;">{data($libro/editorial)}</td>
+                    <td style="text-align: right; border: 1px solid;">{data($libro/precio)}</td>
                 </tr>
             }
         </table>
