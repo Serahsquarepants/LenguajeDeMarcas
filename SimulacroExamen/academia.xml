@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="indexa23Style.xsl"?>
+<?xml-model href="academia.xsd"?>
+
+<escuela>
+    <baile id="1">
+        <nombre_baile>Tecno</nombre_baile>
+        <precio>
+            <precio_clase>15</precio_clase>
+            <periodicidad_cuota>1 mes</periodicidad_cuota>
+            <moneda>euros</moneda>
+        </precio>
+        <numero_plazas>20</numero_plazas>
+        <fecha_inicio>10-02-2023</fecha_inicio>
+        <fecha_fin>20-02-2023</fecha_fin>
+        <nombre_profesor>Fiona</nombre_profesor>
+        <sala>1</sala>
+    </baile>
+
+    <baile id="2">
+        <nombre_baile>Dembow</nombre_baile>
+        <precio>
+            <precio_clase>20</precio_clase>
+            <periodicidad_cuota>1 mes</periodicidad_cuota>
+            <moneda>euros</moneda>
+        </precio>
+        <numero_plazas>10</numero_plazas>
+        <fecha_inicio>09-01-2023</fecha_inicio>
+        <fecha_fin>15-02-2023</fecha_fin>
+        <nombre_profesor>Sofía</nombre_profesor>
+        <sala>1</sala>
+    </baile>
+
+    <baile id="3">
+        <nombre_baile>House Motion</nombre_baile>
+        <precio>
+            <precio_clase>7</precio_clase>
+            <periodicidad_cuota>15 días</periodicidad_cuota>
+            <moneda>Bitcoin</moneda>
+        </precio>
+        <numero_plazas>5</numero_plazas>
+        <fecha_inicio>20-02-2023</fecha_inicio>
+        <fecha_fin>22-02-2023</fecha_fin>
+        <nombre_profesor>Bruno</nombre_profesor>
+        <sala>2</sala>
+    </baile>
+
+    <baile id="4">
+        <nombre_baile>Moler la Castaña</nombre_baile>
+        <precio>
+            <precio_clase>10</precio_clase>
+            <periodicidad_cuota>1 mes</periodicidad_cuota>
+            <moneda>Bitcoin</moneda>
+        </precio>
+        <numero_plazas>4</numero_plazas>
+        <fecha_inicio>23-03-2023</fecha_inicio>
+        <fecha_fin>01-04-2023</fecha_fin>
+        <nombre_profesor>Bruno</nombre_profesor>
+        <sala>2</sala>
+    </baile>
+
+    <baile id="5">
+        <nombre_baile>Meneo del Granjero Feliz</nombre_baile>
+        <precio>
+            <precio_clase>45</precio_clase>
+            <periodicidad_cuota>3 meses</periodicidad_cuota>
+            <moneda>euros</moneda>
+        </precio>
+        <numero_plazas>100</numero_plazas>
+        <fecha_inicio>02-01-2023</fecha_inicio>
+        <fecha_fin>02-01-2024</fecha_fin>
+        <nombre_profesor>Sofía</nombre_profesor>
+        <sala>3</sala>
+    </baile>
+
+    <baile id="6">
+        <nombre_baile>Metalero borracho</nombre_baile>
+        <precio>
+            <precio_clase>150</precio_clase>
+            <periodicidad_cuota>1 mes</periodicidad_cuota>
+            <moneda>euros</moneda>
+        </precio>
+        <numero_plazas>45</numero_plazas>
+        <fecha_inicio>02-02-2023</fecha_inicio>
+        <fecha_fin>03-07-2023</fecha_fin>
+        <nombre_profesor>Fiona</nombre_profesor>
+        <sala>3</sala>
+    </baile>
+    
+</escuela>
