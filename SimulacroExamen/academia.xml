@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="indexa23Style.xsl"?>
+<?xml-stylesheet type="text/xsl" href="TransformarPagina.xsl"?>
 <?xml-model href="academia.xsd"?>
 
 <escuela>
