@@ -36,7 +36,7 @@
         <precio>
             <precio_clase>7</precio_clase>
             <periodicidad_cuota>15 días</periodicidad_cuota>
-            <moneda>Bitcoin</moneda>
+            <moneda>euros</moneda>
         </precio>
         <numero_plazas>5</numero_plazas>
         <fecha_inicio>20-02-2023</fecha_inicio>
@@ -50,7 +50,7 @@
         <precio>
             <precio_clase>10</precio_clase>
             <periodicidad_cuota>1 mes</periodicidad_cuota>
-            <moneda>Bitcoin</moneda>
+            <moneda>euros</moneda>
         </precio>
         <numero_plazas>4</numero_plazas>
         <fecha_inicio>23-03-2023</fecha_inicio>
@@ -86,5 +86,5 @@
         <nombre_profesor>Fiona</nombre_profesor>
         <sala>3</sala>
     </baile>
-    
+
 </escuela>
