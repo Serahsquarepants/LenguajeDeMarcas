@@ -5,7 +5,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 <xsl:template match="/">
     <html>
         <head>
-            <title>Actividad 23</title>
+            <title>Simulacro Examen</title>
         </head>  
         <body>
             <h1>Academia Solsticio de Verano</h1>
