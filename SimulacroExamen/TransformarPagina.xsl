@@ -31,7 +31,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
                         <xsl:for-each select="escuela/baile">
                             <tr>
                                 <td><xsl:value-of select="nombre_baile"/></td>
-                                <td><xsl:value-of select="precio/precio_clase"/>_<xsl:value-of select="precio/moneda"/></td>
+                                <td><xsl:value-of select="precio/precio_clase"/><xsl:value-of select="precio/moneda"/></td>
                                 <td><xsl:value-of select="numero_plazas"/></td>
                                 <td><xsl:value-of select="fecha_inicio"/></td>
                                 <td><xsl:value-of select="fecha_fin"/></td>

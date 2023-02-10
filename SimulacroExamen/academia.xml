@@ -6,7 +6,7 @@
     <baile id="1">
         <nombre_baile>Tecno</nombre_baile>
         <precio>
-            <precio_clase>15</precio_clase>
+            <precio_clase>15 </precio_clase>
             <periodicidad_cuota>1 mes</periodicidad_cuota>
             <moneda>euros</moneda>
         </precio>
@@ -20,7 +20,7 @@
     <baile id="2">
         <nombre_baile>Dembow</nombre_baile>
         <precio>
-            <precio_clase>20</precio_clase>
+            <precio_clase>20 </precio_clase>
             <periodicidad_cuota>1 mes</periodicidad_cuota>
             <moneda>euros</moneda>
         </precio>
@@ -34,7 +34,7 @@
     <baile id="3">
         <nombre_baile>House Motion</nombre_baile>
         <precio>
-            <precio_clase>7</precio_clase>
+            <precio_clase>7 </precio_clase>
             <periodicidad_cuota>15 días</periodicidad_cuota>
             <moneda>euros</moneda>
         </precio>
@@ -48,7 +48,7 @@
     <baile id="4">
         <nombre_baile>Moler la Castaña</nombre_baile>
         <precio>
-            <precio_clase>10</precio_clase>
+            <precio_clase>10 </precio_clase>
             <periodicidad_cuota>1 mes</periodicidad_cuota>
             <moneda>euros</moneda>
         </precio>
@@ -62,7 +62,7 @@
     <baile id="5">
         <nombre_baile>Meneo del Granjero Feliz</nombre_baile>
         <precio>
-            <precio_clase>45</precio_clase>
+            <precio_clase>45 </precio_clase>
             <periodicidad_cuota>3 meses</periodicidad_cuota>
             <moneda>euros</moneda>
         </precio>
@@ -76,7 +76,7 @@
     <baile id="6">
         <nombre_baile>Metalero borracho</nombre_baile>
         <precio>
-            <precio_clase>150</precio_clase>
+            <precio_clase>150 </precio_clase>
             <periodicidad_cuota>1 mes</periodicidad_cuota>
             <moneda>euros</moneda>
         </precio>
