@@ -15,9 +15,9 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
             </style>
         </head>  
         <body>
-            <h1>Academia Solsticio de Verano</h1>
             <div style="display: flex; justify-content: center; height: 200px;">
                 <div style="width: 50%; height: 50px"> 
+                    <h1>Academia Solsticio de Verano</h1>
                     <table>
                         <tr>
                             <th>Baile</th>
