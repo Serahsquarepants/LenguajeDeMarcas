@@ -7,12 +7,10 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
         <head>
             <title>Simulacro Examen</title>
             <style>
-                table {
-                    border: 1px solid blac  k;
-                }
                 td,th {
+                    border: 1px solid black;  
                     text-align: center;
-                    padding: 1cm;
+                    padding: 0.5px;
                 }
             </style>
         </head>  
