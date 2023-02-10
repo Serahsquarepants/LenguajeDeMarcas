@@ -8,7 +8,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
             <title>Simulacro Examen</title>
             <style>
                 td,th {
-                    border: 1px solid black;  
+                    border: 1px solid pink;  
                     text-align: center;
                     padding: 10px;
                 }
