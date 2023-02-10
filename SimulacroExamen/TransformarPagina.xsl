@@ -8,17 +8,17 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
             <title>Simulacro Examen</title>
             <style>
                 td,th {
-                    border: 1px solid pink;  
+                    border: 1px solid #006600;  
                     text-align: center;
                     padding: 10px;
-                    background-color: #6699ff;
+                    background-color: #99ff99;
                 }  
             </style>
         </head>  
         <body style="background: url(gato.gif) no-repeat center center fixed; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;">
             <div style="display: flex; justify-content: center; height: 200px;">
                 <div style="width: 50%; height: 50px"> 
-                    <h1 style="text-align:center; color: #ff99ff"><u>Academia Solsticio de Verano</u></h1>
+                    <h1 style="text-align:center; color: #00cc00"><u>Academia Solsticio de Verano</u></h1>
                     <table>
                         <tr>
                             <th>Baile</th>
