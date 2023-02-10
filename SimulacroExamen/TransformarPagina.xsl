@@ -10,7 +10,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
                 td,th {
                     border: 1px solid black;  
                     text-align: center;
-                    padding: 0.5px;
+                    margin: 0.5cm;
                 }
             </style>
         </head>  
