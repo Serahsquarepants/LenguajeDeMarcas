@@ -17,7 +17,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
         <body>
             <div style="display: flex; justify-content: center; height: 200px;">
                 <div style="width: 50%; height: 50px"> 
-                    <h1 style="text-align:center">Academia Solsticio de Verano</h1>
+                    <h1 style="text-align:center"><u>Academia Solsticio de Verano</u></h1>
                     <table>
                         <tr>
                             <th>Baile</th>
