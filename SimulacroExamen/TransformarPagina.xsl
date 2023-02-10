@@ -11,6 +11,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
                     border: 1px solid pink;  
                     text-align: center;
                     padding: 10px;
+                    background-color: #6699ff;
                 }  
             </style>
         </head>  
