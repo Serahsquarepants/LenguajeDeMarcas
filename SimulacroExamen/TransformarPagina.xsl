@@ -6,7 +6,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
     <html>
         <head>
             <title>Simulacro Examen</title>
-            <syle>
+            <style>
                 table {
                     border: 1px solid blac  k;
                 }
@@ -14,7 +14,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
                     text-align: center;
                     padding: 1cm;
                 }
-            </syle>
+            </style>
         </head>  
         <body>
             <h1>Academia Solsticio de Verano</h1>
