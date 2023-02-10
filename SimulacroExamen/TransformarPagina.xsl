@@ -15,7 +15,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
                 }  
             </style>
         </head>  
-        <body style="background-image: gato.gif">
+        <body style="background: url(gato.gif) no-repeat center center fixed; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;">
             <div style="display: flex; justify-content: center; height: 200px;">
                 <div style="width: 50%; height: 50px"> 
                     <h1 style="text-align:center; color: #ff99ff"><u>Academia Solsticio de Verano</u></h1>
