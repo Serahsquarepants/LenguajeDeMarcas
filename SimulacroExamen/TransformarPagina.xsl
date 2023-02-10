@@ -11,33 +11,35 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
                     border: 1px solid pink;  
                     text-align: center;
                     padding: 10px;
-                }
+                }  
             </style>
         </head>  
         <body>
             <h1>Academia Solsticio de Verano</h1>
-            <table>
-                <tr>
-                    <th>Baile</th>
-                    <th>Precio</th>
-                    <th>Plazas disponibles</th>
-                    <th>Inicio</th>
-                    <th>Fin</th>
-                    <th>Profesor</th>
-                    <th>Sala</th>
-                </tr>
-                <xsl:for-each select="escuela/baile">
+            <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); background-color: lightblue; width: 50%; height: 50px">
+                <table>
                     <tr>
-                        <td><xsl:value-of select="nombre_baile"/></td>
-                        <td><xsl:value-of select="precio/precio_clase"/>_<xsl:value-of select="precio/moneda"/></td>
-                        <td><xsl:value-of select="numero_plazas"/></td>
-                        <td><xsl:value-of select="fecha_inicio"/></td>
-                        <td><xsl:value-of select="fecha_fin"/></td>
-                        <td><xsl:value-of select="nombre_profesor"/></td>
-                        <td><xsl:value-of select="sala"/></td>
+                        <th>Baile</th>
+                        <th>Precio</th>
+                        <th>Plazas disponibles</th>
+                        <th>Inicio</th>
+                        <th>Fin</th>
+                        <th>Profesor</th>
+                        <th>Sala</th>
                     </tr>
-                </xsl:for-each>
-            </table>
+                    <xsl:for-each select="escuela/baile">
+                        <tr>
+                            <td><xsl:value-of select="nombre_baile"/></td>
+                            <td><xsl:value-of select="precio/precio_clase"/>_<xsl:value-of select="precio/moneda"/></td>
+                            <td><xsl:value-of select="numero_plazas"/></td>
+                            <td><xsl:value-of select="fecha_inicio"/></td>
+                            <td><xsl:value-of select="fecha_fin"/></td>
+                            <td><xsl:value-of select="nombre_profesor"/></td>
+                            <td><xsl:value-of select="sala"/></td>
+                        </tr>
+                    </xsl:for-each>
+                </table>
+            </div>
         </body>
     </html>    
 
