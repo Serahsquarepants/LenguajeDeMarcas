@@ -6,7 +6,15 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
     <html>
         <head>
             <title>Simulacro Examen</title>
-            <link rel="stylesheet" href="estilo.css"></link>
+            <syle>
+                table {
+                    border: 1px solid blac  k;
+                }
+                td,th {
+                    text-align: center;
+                    padding: 1cm;
+                }
+            </syle>
         </head>  
         <body>
             <h1>Academia Solsticio de Verano</h1>
