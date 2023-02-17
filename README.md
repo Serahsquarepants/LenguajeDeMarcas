@@ -2,10 +2,13 @@
 
 Mi página de Netlify es: https://main--eclectic-monstera-7c1d02.netlify.app
 
+ACTUALIZACIÓN 17/02/2023 (11:52h) Tiempo consumido 1h 30 min:
+    · Actividad 28 acabada.
+
 ACTUALIZACIÓN 27/01/2023 (18:43h) Tiempo consumido 4h:
     · Actividad 27 acabada.
 
-ACTUALIZACIÓN 12/01/2023 (20:28) Tiempo consumido 7h:
+ACTUALIZACIÓN 12/01/2023 (20:28h) Tiempo consumido 7h:
     · Actividad 26 acabada.
 
 ACTUALIZACIÓN 16/12/2022 (11:00h) Tiempo consumido 2h 30 min:
