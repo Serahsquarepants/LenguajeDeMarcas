@@ -32,17 +32,18 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
                                 </xsl:for-each>
                             </td>
                             <td>
-                                <xsl:for-each select="horas">
-                                    <xsl:value-of select="hora"/>
+                                <xsl:for-each select="horas/hora">
+                                    <xsl:value-of select="." />
+                                    <xsl:if test="position() != last()"> - </xsl:if>
                                 </xsl:for-each>
                             </td>
                             <td>
-                                <xsl:for-each select="empleado">
-                                    <xsl:value-of select="trabajador"/>
+                                <xsl:for-each select="dias_disponibles/dia">
+                                    <xsl:value-of select="." />
+                                    <xsl:if test="position() != last()">, </xsl:if>
                                 </xsl:for-each>
                             </td>
                         </tr>
-                    
                 </xsl:for-each>
             </table>
             </body>
