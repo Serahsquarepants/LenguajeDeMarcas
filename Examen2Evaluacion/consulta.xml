@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="index.xsl"?>
+<?xml-model href="consulta.xsd"?>
+<consult>
+    <servicio>
+        <tipo>Fisioterapia</tipo>
+        <precio>35 euros/hora</precio>
+        <bonos>
+            <bono1>5 sesiones - 160 euros</bono1>
+            <bono2>10 sesiones - 300 euros</bono2>
+        </bonos>
+        <plazas_disponibles>Reserva previa</plazas_disponibles>
+        <dias_disponibles>
+            <dia>Lunes</dia>
+            <dia>Martes</dia>
+            <dia>Miércoles</dia>
+            <dia>Jueves</dia>
+            <dia>Viernes</dia>
+        </dias_disponibles>
+        <horas>
+            <hora>09:00 - 13:00h</hora>
+            <hora>15:00 - 19:00h</hora>
+        </horas>
+        <empleado>
+            <trabajador>Chus</trabajador>
+            <trabajador>Silvia</trabajador>
+            <trabajador>Marga</trabajador>
+        </empleado>
+    </servicio>
+    <servicio>
+        <tipo>Podología</tipo>
+        <precio>25 euros/hora</precio>
+        <bonos>
+            <bono1>5 sesiones - 100 euros</bono1>
+            <bono2>10 sesiones - 190 euros</bono2>
+        </bonos>
+        <plazas_disponibles>Reserva previa</plazas_disponibles>
+        <dias_disponibles>
+            <dia>Lunes</dia>
+            <dia>Martes</dia>
+            <dia>Miércoles</dia>
+            <dia>Jueves</dia>
+            <dia>Viernes</dia>
+        </dias_disponibles>
+        <horas>
+            <hora>09:00 - 13:00h</hora>
+            <hora>15:00 - 19:00h</hora>
+        </horas>
+        <empleado>
+            <trabajador>Joana</trabajador>
+        </empleado>
+    </servicio>
+    <servicio>
+        <tipo>Psicología</tipo>
+        <precio>50 euros/hora</precio>
+        <bonos>
+            <bono1>5 sesiones - 220 euros</bono1>
+            <bono2>10 sesiones - 400 euros</bono2>
+        </bonos>
+        <plazas_disponibles>Reserva previa</plazas_disponibles>
+        <dias_disponibles>
+            <dia>Lunes</dia>
+            <dia>Martes</dia>
+            <dia>Miércoles</dia>
+            <dia>Jueves</dia>
+            <dia>Viernes</dia>
+        </dias_disponibles>
+        <horas>
+            <hora>09:00 - 13:00h</hora>
+            <hora>15:00 - 19:00h</hora>
+        </horas>
+        <empleado>
+            <trabajador>Anna</trabajador>
+        </empleado>
+    </servicio>
+    <servicio>
+        <tipo>Yoga</tipo>
+        <precio>25 euros/mes</precio>
+        <plazas_disponibles>20</plazas_disponibles>
+        <dias_disponibles>
+            <dia>Lunes</dia>
+            <dia>Miércoles</dia>
+            <dia>Viernes</dia>
+        </dias_disponibles>
+        <horas>
+            <hora>11:00 - 12:30h</hora>
+            <hora>17:00 - 18:30h</hora>
+        </horas>
+        <empleado>
+            <trabajador>Biel</trabajador>
+            <trabajador>Alex</trabajador>
+        </empleado>
+    </servicio>
+    <servicio>
+        <tipo>Pilates</tipo>
+        <precio>30 euros/mes</precio>
+        <plazas_disponibles>25</plazas_disponibles>
+        <dias_disponibles>
+            <dia>Martes</dia>
+            <dia>Jueves</dia>
+            <dia>Viernes</dia>
+        </dias_disponibles>
+        <horas>
+            <hora>10:00 - 11:30h</hora>
+            <hora>16:00 - 17:30h</hora>
+        </horas>    
+        <empleado>
+            <trabajador>Tolo</trabajador>
+        </empleado>
+    </servicio>
+    <servicio>
+        <tipo>Meditación</tipo>
+        <precio>35 euros/mes</precio>
+        <plazas_disponibles>10</plazas_disponibles>
+        <dias_disponibles>
+            <dia>Lunes</dia>
+            <dia>Martes</dia>
+            <dia>Miércoles</dia>
+            <dia>Jueves</dia>
+            <dia>Viernes</dia>
+        </dias_disponibles>
+        <horas>
+            <hora>10:00 - 11:00h</hora>
+            <hora>19:00 - 20:00h</hora>
+        </horas>
+        <empleado>
+            <trabajador>Biel</trabajador>
+            <trabajador>Alex</trabajador>
+        </empleado>
+    </servicio>
+</consult>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="consult">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="servicio" maxOccurs="unbounded">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="tipo" type="xs:string" />
+                            <xs:element name="precio" type="xs:string" />
+                            <xs:element name="bonos" minOccurs="0">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="bono1" type="xs:string" />
+                                        <xs:element name="bono2" type="xs:string" />
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                            <xs:element name="plazas_disponibles" type="xs:string" />
+                            <xs:element name="dias_disponibles">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="dia" maxOccurs="unbounded"
+                                            type="xs:string" />
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                            <xs:element name="horas">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="hora" maxOccurs="unbounded"
+                                            type="xs:string" />
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                            <xs:element name="empleado">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="trabajador" maxOccurs="unbounded"
+                                            type="xs:string" />
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>
