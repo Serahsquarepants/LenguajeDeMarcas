@@ -8,6 +8,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
                 <link rel="stylesheet" type="text/css" href="estilo.css"/>
             </head>
             <body>
+                <h1>Consulta Beltraneja de las Flores</h1>
                 <table border="solid:black">
                     <tr>
                         <th>Tipo</th>
@@ -47,6 +48,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
                         </tr>
                 </xsl:for-each>
             </table>
+            <h1>hola</h1>
             </body>
         </html>    
     </xsl:template>
