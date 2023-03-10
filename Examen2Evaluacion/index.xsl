@@ -8,18 +8,17 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
             </head>
             <body>
                 <table border="solid:black">
+                    <tr>
+                        <th>Tipo</th>
+                        <th>Precio</th>
+                        <th>Bono 5 clases</th>
+                        <th>Bono 10 clases</th>
+                        <th>Plazas Disponibles</th>
+                        <th>Días</th>
+                        <th>Horario</th>
+                        <th>Instructor</th>
+                    </tr>
                 <xsl:for-each select="consult/servicio">
-                    
-                        <tr>
-                            <th>Tipo</th>
-                            <th>Precio</th>
-                            <th>Bono 5 clases</th>
-                            <th>Bono 10 clases</th>
-                            <th>Plazas Disponibles</th>
-                            <th>Días</th>
-                            <th>Horario</th>
-                            <th>Instructor</th>
-                        </tr>
                         <tr>
                             <td><xsl:value-of select="tipo"/></td>
                             <td><xsl:value-of select="precio"/></td>
