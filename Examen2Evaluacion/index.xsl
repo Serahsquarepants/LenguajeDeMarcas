@@ -27,7 +27,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
                             <td><xsl:value-of select="plazas_disponibles"/></td>
                             <td>
                                 <xsl:for-each select="dias_disponibles/dia">
-                                    <xsl:value-of select="dia"/>>
+                                    <xsl:value-of select="dias_disponibles/dia"/>
                                 </xsl:for-each>
                             </td>
                             <td>
