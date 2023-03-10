@@ -8,7 +8,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
             </head>
             <body>
                 <xsl:for-each select="consult/servicio">
-                    <table>
+                    <table border="solid:black">
                         <tr>
                             <th>Tipo</th>
                             <th>Precio</th>
