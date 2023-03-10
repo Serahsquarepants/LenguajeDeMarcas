@@ -26,8 +26,8 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
                             <td><xsl:value-of select="bonos/bono2"/></td>
                             <td><xsl:value-of select="plazas_disponibles"/></td>
                             <td>
-                                <xsl:for-each select="dias_disponibles">
-                                    <xsl:value-of select="dia"/>
+                                <xsl:for-each select="dias_disponibles/dia">
+                                    <xsl:value-of select="dia"/>>
                                 </xsl:for-each>
                             </td>
                             <td>
