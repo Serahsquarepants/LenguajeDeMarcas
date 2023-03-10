@@ -7,7 +7,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
                 <title>Examen 2 Evaluación</title>
                 <link rel="stylesheet" type="text/css" href="estilo.css"/>
             </head>
-            <body>
+            <body style="background: url(gato.gif) no-repeat center center fixed;">
                 <h1><u>Consulta Beltraneja de las Flores</u></h1>
                 <table border="solid:black">
                     <tr>
