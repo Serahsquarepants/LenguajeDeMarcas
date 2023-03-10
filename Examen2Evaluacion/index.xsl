@@ -5,7 +5,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
         <html>
             <head>
                 <title>Examen 2 Evaluación</title>
-                <link rel="stylesheet" href="estilo.css"></link>
+                <link rel="stylesheet" type="text/css" href="estilo.css"/>
             </head>
             <body>
                 <table border="solid:black">
