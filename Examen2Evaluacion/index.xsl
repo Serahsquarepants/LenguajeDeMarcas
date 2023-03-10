@@ -7,8 +7,9 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
                 <title>Examen 2 Evaluación</title>
             </head>
             <body>
+                <table border="solid:black">
                 <xsl:for-each select="consult/servicio">
-                    <table border="solid:black">
+                    
                         <tr>
                             <th>Tipo</th>
                             <th>Precio</th>
@@ -41,8 +42,9 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
                                 </xsl:for-each>
                             </td>
                         </tr>
-                    </table>
+                    
                 </xsl:for-each>
+            </table>
             </body>
         </html>    
     </xsl:template>
