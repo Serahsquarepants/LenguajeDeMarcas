@@ -76,6 +76,10 @@
     <servicio>
         <tipo>Yoga</tipo>
         <precio>25 euros/mes</precio>
+        <bonos>
+            <bono1>No disponible</bono1>
+            <bono2>No disponible</bono2>
+        </bonos>
         <plazas_disponibles>20</plazas_disponibles>
         <dias_disponibles>
             <dia>Lunes</dia>
@@ -94,6 +98,10 @@
     <servicio>
         <tipo>Pilates</tipo>
         <precio>30 euros/mes</precio>
+        <bonos>
+            <bono1>No disponible</bono1>
+            <bono2>No disponible</bono2>
+        </bonos>
         <plazas_disponibles>25</plazas_disponibles>
         <dias_disponibles>
             <dia>Martes</dia>
@@ -111,6 +119,10 @@
     <servicio>
         <tipo>Meditación</tipo>
         <precio>35 euros/mes</precio>
+        <bonos>
+            <bono1>No disponible</bono1>
+            <bono2>No disponible</bono2>
+        </bonos>
         <plazas_disponibles>10</plazas_disponibles>
         <dias_disponibles>
             <dia>Lunes</dia>
