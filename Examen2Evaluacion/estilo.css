@@ -2,14 +2,14 @@ h1{
     text-align: center;
 }
 th{
-    border: 1px solid #006600;
-    color: darkgreen;  
+    border: 1px solid aliceblue;  ;
+    color:aliceblue;  
     text-align: center;
     padding: 10px;
 }
 td{
     border: 1px solid #006600;  
-    color: darkgreen;  
+    color:aliceblue;  
     text-align: center;
     padding: 10px;
 }
