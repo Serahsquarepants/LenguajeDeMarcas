@@ -26,17 +26,17 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
                             <td><xsl:value-of select="bonos/bono2"/></td>
                             <td><xsl:value-of select="plazas_disponibles"/></td>
                             <td>
-                                <xsl:for-each select="dias_disponibles/dia">
+                                <xsl:for-each select="dias_disponibles">
                                     <xsl:value-of select="dia"/>
                                 </xsl:for-each>
                             </td>
                             <td>
-                                <xsl:for-each select="horas/hora">
+                                <xsl:for-each select="horas">
                                     <xsl:value-of select="hora"/>
                                 </xsl:for-each>
                             </td>
                             <td>
-                                <xsl:for-each select="empleado/trabajador">
+                                <xsl:for-each select="empleado">
                                     <xsl:value-of select="trabajador"/>
                                 </xsl:for-each>
                             </td>
