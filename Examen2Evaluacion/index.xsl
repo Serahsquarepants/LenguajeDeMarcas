@@ -26,7 +26,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
                             <td><xsl:value-of select="bonos/bono2"/></td>
                             <td><xsl:value-of select="plazas_disponibles"/></td>
                             <td>
-                                <xsl:value-of select="dias_disponibles/dia" separator=", "/>
+                                <xsl:value-of select="string-join(dias_disponibles/dia, ', ')" />
                             </td>
                             <td>
                                 <xsl:for-each select="horas">
