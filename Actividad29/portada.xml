@@ -1,0 +1,1102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rss [
+    <!ENTITY nbsp "entity-value">
+]>
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+<rss version="2.0"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+    xmlns:ue="http://www.elmundo.es/imasd/rss/">
+   
+    <channel>
+        <title>Deportes // elmundo</title>
+        <link>https://www.elmundo.es</link>
+        <description>Deportes // elmundo</description>
+        <language>es</language>
+        <copyright>(c)  2023, Unidad Editorial, S.A.</copyright>
+        <pubDate>Thu, 16 Mar 2023 13:05:22 +0100</pubDate>
+        <lastBuildDate>Thu, 16 Mar 2023 13:05:22 +0100</lastBuildDate>
+        <category>News and Politics</category>
+        <ttl>60</ttl>
+        <atom:link href="http://www.elmundo.es/rss/deportes.xml" rel="self" type="application/rss+xml" />
+        <image>
+            <title>Deportes // elmundo</title>
+            <url>https://e00-elmundo.uecdn.es/imagen/canalima144.gif</url>
+            <link>https://www.elmundo.es</link>
+            <width>144</width>
+            <height>24</height>
+            <description>elmundo.es</description>
+        </image>
+        <item>
+            <title>El Madrid realiza el ejercicio de autoridad de un rey ante el Liverpool</title>
+            <description>El equipo de Ancelotti no pasa apuros ante los de Klopp, y certifica el pase a cuartos con un tanto de Benzema, quien regresaba de una lesión, a pase de Vincius&nbsp;<a href="https://www.elmundo.es/deportes/futbol/champions-league/2023/03/15/641244fafdddff0c038b4588.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/deportes.xml" alt=""/></description>
+            <dc:creator>ORFEO SUÁREZ</dc:creator>
+            <link>https://www.elmundo.es/deportes/futbol/champions-league/2023/03/15/641244fafdddff0c038b4588.html</link>
+            <category>deportes</category>
+            <category>Fútbol</category>
+            <category>Champions League</category>
+            <category>Real Madrid</category>
+            <category>Liverpool FC</category>
+            <category>Artículos Orfeo Suárez</category>
+            <media:description type="html">El equipo de Ancelotti no pasa apuros ante los de Klopp, y certifica el pase a cuartos con un tanto de Benzema, quien regresaba de una lesión, a pase de Vincius</media:description>
+            <media:title type="html">CHAMPIONS LEAGUE|Real Madrid 1 - Liverpool 0</media:title>
+            <guid>https://www.elmundo.es/deportes/futbol/champions-league/2023/03/15/641244fafdddff0c038b4588.html</guid>
+            <pubDate>Thu, 16 Mar 2023 08:27:51 +0100</pubDate>
+        </item>
+        <item>
+            <title>City, Bayern y Nápoles, principales amenazas del Real Madrid en cuartos</title>
+            <description>Los blancos tienen más probabilidades de que les caiga un equipo italiano en el sorteo del viernes, después de que el Calcio haya logrado plantar tres equipos en cuartos, algo que sucedía desde hace 17 años&nbsp;<a href="https://www.elmundo.es/deportes/futbol/champions-league/2023/03/16/641231fd21efa0e07d8b4592.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/deportes.xml" alt=""/></description>
+            <dc:creator>RICARDO F. COLMENERO</dc:creator>
+            <link>https://www.elmundo.es/deportes/futbol/champions-league/2023/03/16/641231fd21efa0e07d8b4592.html</link>
+            <category>deportes</category>
+            <category>Fútbol</category>
+            <category>Champions League</category>
+            <category>Sorteo</category>
+            <category>Real Madrid</category>
+            <category>Bayern de Múnich</category>
+            <category>Chelsea FC</category>
+            <category>Inter de Milán</category>
+            <category>AC Milan</category>
+            <category>Nápoles FC</category>
+            <category>Benfica</category>
+            <category>Manchester City</category>
+            <category>Artículos Ricardo F. Colmenero</category>
+            <media:description type="html">Los blancos tienen más probabilidades de que les caiga un equipo italiano en el sorteo del viernes, después de que el Calcio haya logrado plantar tres equipos en cuartos, algo que sucedía desde hace 17 años</media:description>
+            <media:title type="html">SORTEO CHAMPIONS</media:title>
+            <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/15/16789162460727.jpg" medium="image" width="3072" height="2010" />
+            <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/15/16789162460727_150x0.jpg" width="150" height="98" />
+            <guid>https://www.elmundo.es/deportes/futbol/champions-league/2023/03/16/641231fd21efa0e07d8b4592.html</guid>
+            <pubDate>Thu, 16 Mar 2023 09:09:23 +0100</pubDate>
+        </item>
+        <item>
+            <title>Clos Gómez, en el foco del 'caso Negreira': ''Madrid y Barcelona, a los que más se perjudica"</title>
+            <description>El árbitro, señalado porque dirigió la final de la Copa entre el Barcelona y el Alavés, explicó hace 10 años que era complejo pitar a los dos clubes más grandes&nbsp;<a href="https://www.elmundo.es/deportes/futbol/primera-division/2023/03/16/64120380fdddff708c8b45b0.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/deportes.xml" alt=""/></description>
+            <dc:creator>PABLO DE LA CALLE</dc:creator>
+            <link>https://www.elmundo.es/deportes/futbol/primera-division/2023/03/16/64120380fdddff708c8b45b0.html</link>
+            <category>Real Madrid</category>
+            <category>Supercopa de España</category>
+            <category>deportes</category>
+            <category>Copa del Rey</category>
+            <category>Fútbol</category>
+            <media:description type="html">El árbitro, señalado porque dirigió la final de la Copa entre el Barcelona y el Alavés, explicó hace 10 años que era complejo pitar a los dos clubes más grandes</media:description>
+            <media:title type="html">LALIGA SANTANDER</media:title>
+            <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/15/16789023450305.jpg" medium="image" width="1024" height="755" />
+            <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/15/16789023450305_150x0.jpg" width="150" height="110" />
+            <guid>https://www.elmundo.es/deportes/futbol/primera-division/2023/03/16/64120380fdddff708c8b45b0.html</guid>
+            <pubDate>Thu, 16 Mar 2023 11:55:23 +0100</pubDate>
+        </item>
+        <item>
+            <title>El "esto no es fútbol" de Ancelotti y la crítica de Courtois: "Me gustaría preguntarle a Hernández Hernández..."</title>
+            <description>El Madrid superó su 19º eliminatoria/final de las últimas 22 que ha disputado, y Benzema mantuvo su racha contra los equipos ingleses: sus últimos 10 goles en Champions, contra clubes de la Premier.&nbsp;<a href="https://www.elmundo.es/deportes/futbol/champions-league/2023/03/16/64121535e4d4d83e0a8b45b5.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/deportes.xml" alt=""/></description>
+            <dc:creator>ABRAHAM P. ROMERO</dc:creator>
+            <link>https://www.elmundo.es/deportes/futbol/champions-league/2023/03/16/64121535e4d4d83e0a8b45b5.html</link>
+            <category>deportes</category>
+            <category>Fútbol</category>
+            <category>Real Madrid</category>
+            <category>Champions League</category>
+            <category>Liverpool FC</category>
+            <category>Artículos Abraham Romero</category>
+            <category>Carlo Ancelotti</category>
+            <category>Karim Benzema</category>
+            <media:description type="html">El Madrid superó su 19º eliminatoria/final de las últimas 22 que ha disputado, y Benzema mantuvo su racha contra los equipos ingleses: sus últimos 10 goles en Champions, contra clubes de la Premier.</media:description>
+            <media:title type="html">CHAMPIONS LEAGUE|Real Madrid</media:title>
+            <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/16/16789257950427.jpg" medium="image" width="3072" height="2048" />
+            <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/16/16789257950427_150x0.jpg" width="150" height="100" />
+            <guid>https://www.elmundo.es/deportes/futbol/champions-league/2023/03/16/64121535e4d4d83e0a8b45b5.html</guid>
+            <pubDate>Thu, 16 Mar 2023 12:32:39 +0100</pubDate>
+        </item>
+        <item>
+            <title>Genética, cabeza privilegiada y hambre caníbal o por qué Pogacar siempre gana</title>
+            <description>Ha arrasado en la París-Niza y ahora apunta a las clásicas. ''Ganará los cinco Monumentos'', adiverte Óscar Freire. ''Es un fenómeno y le gusta divertirse con la bicicleta'', recalca José Antonio Flecha.&nbsp;<a href="https://www.elmundo.es/deportes/ciclismo/2023/03/15/640df897e4d4d8b73b8b456e.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/deportes.xml" alt=""/></description>
+            <dc:creator>PABLO DE LA CALLE</dc:creator>
+            <link>https://www.elmundo.es/deportes/ciclismo/2023/03/15/640df897e4d4d8b73b8b456e.html</link>
+            <category>Tadej Pogacar</category>
+            <category>París-Niza</category>
+            <category>Clásicas de Ciclismo</category>
+            <category>Genética</category>
+            <category>deportes</category>
+            <category>Artículos Pablo de la Calle</category>
+            <media:description type="html">Ha arrasado en la París-Niza y ahora apunta a las clásicas. ''Ganará los cinco Monumentos'', adiverte Óscar Freire. ''Es un fenómeno y le gusta divertirse con la bicicleta'', recalca José Antonio Flecha.</media:description>
+            <media:title type="html">CICLISMO</media:title>
+            <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/12/16786376715178.jpg" medium="image" width="3072" height="2047" />
+            <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/12/16786376715178_150x0.jpg" width="150" height="99" />
+            <guid>https://www.elmundo.es/deportes/ciclismo/2023/03/15/640df897e4d4d8b73b8b456e.html</guid>
+            <pubDate>Wed, 15 Mar 2023 19:28:26 +0100</pubDate>
+        </item>
+        <item>
+            <title>El viaje hasta la atalaya del fútbol de Lucía García, cuatrilliza y criada en un pueblo de 50 habitantes: "Mis padres hicieron todo para mantenernos"</title>
+            <description>&nbsp;<a href="https://www.elmundo.es/deportes/futbol/2023/03/16/640dee31e4d4d8f62e8b458d.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/deportes.xml" alt=""/></description>
+            <dc:creator>FRANCISCO CABEZAS</dc:creator>
+            <link>https://www.elmundo.es/deportes/futbol/2023/03/16/640dee31e4d4d8f62e8b458d.html</link>
+            <category>deportes</category>
+            <category>Fútbol</category>
+            <category>Selección Femenina Fútbol España</category>
+            <category>Artículos Francisco Cabezas</category>
+            <media:description type="html"><h2 class="ue-c-article__subheadline"></h2><dl class="ue-c-article__interview"><dt>¿Qué es la felicidad?</dt><dd>Algo que me está costando encontrar en este periodo. No sabría deci</dd>
+            </dl></media:description>
+            <media:title type="html">FÚTBOL|Entrevista a la delantera del Manchester United</media:title>
+            <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/12/16786344626220.jpg" medium="image" width="853" height="1280" />
+            <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/12/16786344626220_150x0.jpg" width="150" height="225" />
+            <guid>https://www.elmundo.es/deportes/futbol/2023/03/16/640dee31e4d4d8f62e8b458d.html</guid>
+            <pubDate>Thu, 16 Mar 2023 02:30:39 +0100</pubDate>
+        </item>
+        <item>
+            <title>La fórmula Klopp la desintegra el Madrid</title>
+            <description>&nbsp;<a href="https://www.elmundo.es/deportes/futbol/champions-league/2023/03/15/641248f9fdddffd8518b4586.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/deportes.xml" alt=""/></description>
+            <dc:creator>JULIÁN RUIZ</dc:creator>
+            <link>https://www.elmundo.es/deportes/futbol/champions-league/2023/03/15/641248f9fdddffd8518b4586.html</link>
+            <category>deportes</category>
+            <category>Real Madrid</category>
+            <category>Liverpool FC</category>
+            <category>Fútbol</category>
+            <category>Jürgen Klopp</category>
+            <category>Carlo Ancelotti</category>
+            <category>Artículos Julián Ruiz</category>
+            <media:description type="html">El Madrid ha ganado con un rotundo 6-2 la eliminatoria. Desintegra finalmente la fórmula del éxito de <strong>Klopp </strong>. Perder en París significó la entrada a las escaler</media:description>
+            <media:title type="html">EL CORTADOR DE CÉSPED</media:title>
+            <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/15/16789194229279.jpg" medium="image" width="1993" height="1329" />
+            <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/15/16789194229279_150x0.jpg" width="150" height="100" />
+            <guid>https://www.elmundo.es/deportes/futbol/champions-league/2023/03/15/641248f9fdddffd8518b4586.html</guid>
+            <pubDate>Wed, 15 Mar 2023 23:38:58 +0100</pubDate>
+        </item>
+        <item>
+            <title>El juzgado investiga al Barça y a los ex presidentes Rosell y Bartomeu por los pagos al ex vicepresidente de los árbitros</title>
+            <description>Acepta a trámite la denuncia de la Fiscalía y emplaza a la Guardia Civil a indagar sobre las facturas de Enríquez Negreira&nbsp;<a href="https://www.elmundo.es/deportes/2023/03/15/6411b9ee21efa00e498b4582.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/deportes.xml" alt=""/></description>
+            <dc:creator>GERMÁN GONZÁLEZ</dc:creator>
+            <link>https://www.elmundo.es/deportes/2023/03/15/6411b9ee21efa00e498b4582.html</link>
+            <category>Dinero</category>
+            <category>Cataluña</category>
+            <category>Barcelona</category>
+            <category>Giovani Dos Santos</category>
+            <category>Josep Maria Bartomeu</category>
+            <category>Santiago Solari - MX</category>
+            <category>Hugo Sánchez - MX</category>
+            <category>Real Madrid</category>
+            <category>CSD</category>
+            <category>Agencia Tributaria</category>
+            <category>Caso Neymar</category>
+            <category>Caso Negreira</category>
+            <category>Artículos Germán González</category>
+            <media:description type="html">Acepta a trámite la denuncia de la Fiscalía y emplaza a la Guardia Civil a indagar sobre las facturas de Enríquez Negreira</media:description>
+            <media:title type="html">TRIBUNALES</media:title>
+            <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/14/16788008558491.jpg" medium="image" width="2000" height="1046" />
+            <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/14/16788008558491_150x0.jpg" width="150" height="78" />
+            <guid>https://www.elmundo.es/deportes/2023/03/15/6411b9ee21efa00e498b4582.html</guid>
+            <pubDate>Wed, 15 Mar 2023 13:28:47 +0100</pubDate>
+        </item>
+        <item>
+            <title>Alcaraz se mete en cuartos de final de Indian Wells tras la lesión de Jack Draper</title>
+            <description>El murciano se imponía por 6-2 y 2-0 cuando el británico decidió abandonar el partido&nbsp;<a href="https://www.elmundo.es/deportes/tenis/2023/03/15/64115fade4d4d8a27e8b45cc.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/deportes.xml" alt=""/></description>
+            <dc:creator>PABLO SCARPELLINI</dc:creator>
+            <link>https://www.elmundo.es/deportes/tenis/2023/03/15/64115fade4d4d8a27e8b45cc.html</link>
+            <category>Carlos Alcaraz</category>
+            <category>Indian Wells</category>
+            <category>deportes</category>
+            <category>tenis</category>
+            <media:description type="html">El murciano se imponía por 6-2 y 2-0 cuando el británico decidió abandonar el partido</media:description>
+            <media:title type="html">TENIS</media:title>
+            <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/15/16788601624732.jpg" medium="image" width="3072" height="2047" />
+            <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/15/16788601624732_150x0.jpg" width="150" height="99" />
+            <guid>https://www.elmundo.es/deportes/tenis/2023/03/15/64115fade4d4d8a27e8b45cc.html</guid>
+            <pubDate>Wed, 15 Mar 2023 07:03:29 +0100</pubDate>
+        </item>
+        <item>
+            <title>Una demostración histórica de Haaland aloja al Manchester City en cuartos</title>
+            <description>El ariete noruego marca cinco goles en 57 minutos, iguala el récord de Messi y Luiz Adriano en la Champions, y corona la exhibición del equipo de Guardiola. El VAR abrió la noche en canal con un polémico penalti&nbsp;<a href="https://www.elmundo.es/deportes/futbol/champions-league/2023/03/14/6410cd4cfdddff6b128b45f1.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/deportes.xml" alt=""/></description>
+            <dc:creator>FRANCISCO CABEZAS</dc:creator>
+            <link>https://www.elmundo.es/deportes/futbol/champions-league/2023/03/14/6410cd4cfdddff6b128b45f1.html</link>
+            <category>deportes</category>
+            <category>Champions League</category>
+            <category>Manchester City</category>
+            <category>Pep Guardiola</category>
+            <category>Erling Haaland</category>
+            <category>Artículos Francisco Cabezas</category>
+            <media:description type="html">El ariete noruego marca cinco goles en 57 minutos, iguala el récord de Messi y Luiz Adriano en la Champions, y corona la exhibición del equipo de Guardiola. El VAR abrió la noche en canal con un polémico penalti</media:description>
+            <media:title type="html">CHAMPIONS LEAGUE|Manchester City 7 Leipzig 0</media:title>
+            <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/14/16788316438258.jpg" medium="image" width="3072" height="2047" />
+            <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/14/16788316438258_150x0.jpg" width="150" height="99" />
+            <guid>https://www.elmundo.es/deportes/futbol/champions-league/2023/03/14/6410cd4cfdddff6b128b45f1.html</guid>
+            <pubDate>Tue, 14 Mar 2023 23:19:52 +0100</pubDate>
+        </item>
+        <item>
+            <title>Anticorrupción asume la investigación del caso Negreira por su especial trascendencia</title>
+            <description>A partir de ahora, será esta Fiscalía Anticorrupción que dirige el fiscal de Sala Alejandro Luzón la que lidere la instrucción de la causa.&nbsp;<a href="https://www.elmundo.es/deportes/futbol/2023/03/14/641073c1e4d4d805478b45bf.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/deportes.xml" alt=""/></description>
+            <dc:creator>ÁNGELA MARTIALAY</dc:creator>
+            <link>https://www.elmundo.es/deportes/futbol/2023/03/14/641073c1e4d4d805478b45bf.html</link>
+            <category>Corrupción</category>
+            <category>Caso Negreira</category>
+            <category>deportes</category>
+            <category>Fútbol</category>
+            <media:description type="html">A partir de ahora, será esta Fiscalía Anticorrupción que dirige el fiscal de Sala Alejandro Luzón la que lidere la instrucción de la causa.</media:description>
+            <media:title type="html">FÚTBOL</media:title>
+            <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/14/16787996463443.jpg" medium="image" width="3072" height="2605" />
+            <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/14/16787996463443_150x0.jpg" width="150" height="127" />
+            <guid>https://www.elmundo.es/deportes/futbol/2023/03/14/641073c1e4d4d805478b45bf.html</guid>
+            <pubDate>Tue, 14 Mar 2023 14:31:45 +0100</pubDate>
+        </item>
+        <item>
+            <title>La lacra de la anorexia y la bulimia en el deporte femenino: "Llegué a pesar 36 kilos"</title>
+            <description>Una gimnasta, una corredora y una esquiadora relatan los severos trastornos generados por sus entrenadores y la presión competitiva&nbsp;<a href="https://www.elmundo.es/deportes/mas-deporte/2023/03/14/640f5807e4d4d8f0478b45c8.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/deportes.xml" alt=""/></description>
+            <dc:creator>JAVIER SÁNCHEZ</dc:creator>
+            <link>https://www.elmundo.es/deportes/mas-deporte/2023/03/14/640f5807e4d4d8f0478b45c8.html</link>
+            <category>deportes</category>
+            <category>Artículos Javier Sánchez</category>
+            <media:description type="html">Una gimnasta, una corredora y una esquiadora relatan los severos trastornos generados por sus entrenadores y la presión competitiva</media:description>
+            <media:title type="html">MÁS DEPORTE</media:title>
+            <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/13/16787275118806.jpg" medium="image" width="768" height="511" />
+            <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/13/16787275118806_150x0.jpg" width="150" height="99" />
+            <guid>https://www.elmundo.es/deportes/mas-deporte/2023/03/14/640f5807e4d4d8f0478b45c8.html</guid>
+            <pubDate>Tue, 14 Mar 2023 02:53:19 +0100</pubDate>
+        </item>
+        <item>
+            <title>Los Mossos investigan un robo en casa de la juez del 'caso Negreira'</title>
+            <description>La magistrada ha denunciado la sustracción de joyas y dinero, entre otros objetos&nbsp;<a href="https://www.elmundo.es/deportes/futbol/2023/03/15/6411d32421efa0f6668b4587.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/deportes.xml" alt=""/></description>
+            <dc:creator>EL MUNDO</dc:creator>
+            <link>https://www.elmundo.es/deportes/futbol/2023/03/15/6411d32421efa0f6668b4587.html</link>
+            <category>Mossos d&#039;Esquadra</category>
+            <category>FC Barcelona</category>
+            <category>Dinero</category>
+            <category>Cataluña</category>
+            <category>Barcelona</category>
+            <category>Caso Negreira</category>
+            <media:description type="html">La magistrada ha denunciado la sustracción de joyas y dinero, entre otros objetos</media:description>
+            <media:title type="html">FÚTBOL</media:title>
+            <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/12/16786422829439.jpg" medium="image" width="2237" height="1440" />
+            <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/12/16786422829439_150x0.jpg" width="150" height="96" />
+            <guid>https://www.elmundo.es/deportes/futbol/2023/03/15/6411d32421efa0f6668b4587.html</guid>
+            <pubDate>Wed, 15 Mar 2023 15:17:06 +0100</pubDate>
+        </item>
+        <item>
+            <title>El Barça ficha para la investigación interna del caso Negreira al abogado de Junqueras</title>
+            <description>Se trata del abogado Andreu Van den Eynde, que defendió al histórico dirigente de Esquerra Republicana de Cataluña (ERC) en la causa del 'procés'&nbsp;<a href="https://www.elmundo.es/deportes/futbol/2023/03/15/6411a8f7fc6c837b228b45c6.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/deportes.xml" alt=""/></description>
+            <dc:creator>Ángela Martialay / Esteban Urreiztieta</dc:creator>
+            <link>https://www.elmundo.es/deportes/futbol/2023/03/15/6411a8f7fc6c837b228b45c6.html</link>
+            <category>Caso Negreira</category>
+            <media:description type="html">Se trata del abogado Andreu Van den Eynde, que defendió al histórico dirigente de Esquerra Republicana de Cataluña (ERC) en la causa del 'procés'</media:description>
+            <media:title type="html">FÚTBOL</media:title>
+            <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/15/16788790260791.jpg" medium="image" width="3072" height="2048" />
+            <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/15/16788790260791_150x0.jpg" width="150" height="100" />
+            <guid>https://www.elmundo.es/deportes/futbol/2023/03/15/6411a8f7fc6c837b228b45c6.html</guid>
+            <pubDate>Wed, 15 Mar 2023 12:44:14 +0100</pubDate>
+        </item>
+        <item>
+            <title>Mano dura en la selección sub'17: Julen Guerrero deja fuera a sus tres perlas por una indisciplina grave</title>
+            <description>Lamine Yamal (FC Barcelona), Daniel Muñoz (Atlético) y Jesús Fortea (Real Madrid) no acudirán al torneo clasificatorio para el Europeo&nbsp;<a href="https://www.elmundo.es/deportes/futbol/2023/03/15/64118a3221efa08d198b457c.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/deportes.xml" alt=""/></description>
+            <dc:creator>EL MUNDO</dc:creator>
+            <link>https://www.elmundo.es/deportes/futbol/2023/03/15/64118a3221efa08d198b457c.html</link>
+            <category>Real Madrid</category>
+            <category>FC Barcelona</category>
+            <category>Selección de Fútbol de España</category>
+            <category>DDA</category>
+            <media:description type="html">Lamine Yamal (FC Barcelona), Daniel Muñoz (Atlético) y Jesús Fortea (Real Madrid) no acudirán al torneo clasificatorio para el Europeo</media:description>
+            <media:title type="html">FÚTBOL</media:title>
+            <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/15/16788715664671.jpg" medium="image" width="1200" height="800" />
+            <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/15/16788715664671_150x0.jpg" width="150" height="100" />
+            <guid>https://www.elmundo.es/deportes/futbol/2023/03/15/64118a3221efa08d198b457c.html</guid>
+            <pubDate>Wed, 15 Mar 2023 10:58:51 +0100</pubDate>
+        </item>
+        <item>
+            <title>Bellingham, la otra lucha Madrid-Liverpool a "precio Mbappé": una subasta de 150 millones</title>
+            <description>El centrocampista inglés del Dortmund es la joya del próximo mercado. El Madrid, con recelo británico pero enamorado de su talento, aguarda para moverse como con Tchouaméni.&nbsp;<a href="https://www.elmundo.es/deportes/futbol/champions-league/2023/03/15/6410a133fc6c83b42a8b45a8.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/deportes.xml" alt=""/></description>
+            <dc:creator>ABRAHAM P. ROMERO</dc:creator>
+            <link>https://www.elmundo.es/deportes/futbol/champions-league/2023/03/15/6410a133fc6c83b42a8b45a8.html</link>
+            <category>Jude Bellingham</category>
+            <category>Mbappé</category>
+            <category>Kylian Mbappé</category>
+            <category>Erling Haaland</category>
+            <category>Gareth Bale</category>
+            <category>Manchester City</category>
+            <category>PSG</category>
+            <category>David Alaba</category>
+            <category>Manchester United</category>
+            <category>Luka Modric</category>
+            <category>deportes</category>
+            <category>Fútbol</category>
+            <category>Champions League</category>
+            <category>Real Madrid</category>
+            <category>Liverpool FC</category>
+            <category>Artículos Abraham Romero</category>
+            <media:description type="html">El centrocampista inglés del Dortmund es la joya del próximo mercado. El Madrid, con recelo británico pero enamorado de su talento, aguarda para moverse como con Tchouaméni.</media:description>
+            <media:title type="html">CHAMPIONS LEAGUE</media:title>
+            <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/14/16788111953337.jpg" medium="image" width="3072" height="2112" />
+            <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/14/16788111953337_150x0.jpg" width="150" height="103" />
+            <guid>https://www.elmundo.es/deportes/futbol/champions-league/2023/03/15/6410a133fc6c83b42a8b45a8.html</guid>
+            <pubDate>Wed, 15 Mar 2023 02:15:04 +0100</pubDate>
+        </item>
+        <item>
+            <title>El Real Madrid deja con vida al campeón: una asombrosa remontada sin victoria</title>
+            <description>Los blancos, que perdían por 17 al comienzo del último cuarto, se lograron poner por delante gracias a Sergio Rodríguez, pero otro mal cierre de partido dio el triunfo a un Efes en el alambre&nbsp;<a href="https://www.elmundo.es/deportes/baloncesto/euroliga/2023/03/14/6410b46cfdddffba3c8b4597.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/deportes.xml" alt=""/></description>
+            <dc:creator>LUCAS SÁEZ-BRAVO</dc:creator>
+            <link>https://www.elmundo.es/deportes/baloncesto/euroliga/2023/03/14/6410b46cfdddffba3c8b4597.html</link>
+            <category>Real Madrid</category>
+            <category>Baskonia</category>
+            <category>Olympiacos</category>
+            <category>Euroliga</category>
+            <category>deportes</category>
+            <category>Artículos Lucas Sáez-Bravo</category>
+            <media:description type="html">Los blancos, que perdían por 17 al comienzo del último cuarto, se lograron poner por delante gracias a Sergio Rodríguez, pero otro mal cierre de partido dio el triunfo a un Efes en el alambre</media:description>
+            <media:title type="html">EUROLIGA|Anadolu Efes 89 Real Madrid 90</media:title>
+            <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/14/16788227829724.jpg" medium="image" width="3072" height="2114" />
+            <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/14/16788227829724_150x0.jpg" width="150" height="103" />
+            <guid>https://www.elmundo.es/deportes/baloncesto/euroliga/2023/03/14/6410b46cfdddffba3c8b4597.html</guid>
+            <pubDate>Tue, 14 Mar 2023 21:46:09 +0100</pubDate>
+        </item>
+        <item>
+            <title>Macron lanza la cuenta atrás para los Juegos de París: "Tenemos que estar a la altura"</title>
+            <description>Quedan 500 días para el evento, el mayor reto de organización para la capital francesa&nbsp;<a href="https://www.elmundo.es/deportes/mas-deporte/2023/03/14/6410bbb6e4d4d87d528b45a4.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/deportes.xml" alt=""/></description>
+            <dc:creator>Raquel Villaécija</dc:creator>
+            <link>https://www.elmundo.es/deportes/mas-deporte/2023/03/14/6410bbb6e4d4d87d528b45a4.html</link>
+            <category>Emmanuel Macron</category>
+            <category>Juegos Olímpicos</category>
+            <category>Artículos Raquel Villaécija</category>
+            <media:description type="html">Quedan 500 días para el evento, el mayor reto de organización para la capital francesa</media:description>
+            <media:title type="html">MÁS DEPORTE</media:title>
+            <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/14/16788183643006.jpg" medium="image" width="3072" height="2049" />
+            <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/14/16788183643006_150x0.jpg" width="150" height="100" />
+            <guid>https://www.elmundo.es/deportes/mas-deporte/2023/03/14/6410bbb6e4d4d87d528b45a4.html</guid>
+            <pubDate>Tue, 14 Mar 2023 19:38:48 +0100</pubDate>
+        </item>
+        <item>
+            <title>Ancelotti: "No hablo con Hazard, es cierto, pero es una cuestión de carácter"</title>
+            <description>El técnico valora las declaraciones de Hazard, en las que aseguraba que no se hablaba con el italiano. Benzema, recuperado para enfrentarse al Liverpool.&nbsp;<a href="https://www.elmundo.es/deportes/futbol/champions-league/2023/03/14/64105a00fc6c8386458b4586.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/deportes.xml" alt=""/></description>
+            <dc:creator>ABRAHAM P. ROMERO</dc:creator>
+            <link>https://www.elmundo.es/deportes/futbol/champions-league/2023/03/14/64105a00fc6c8386458b4586.html</link>
+            <category>deportes</category>
+            <category>Champions League</category>
+            <category>Real Madrid</category>
+            <category>Fútbol</category>
+            <category>Carlo Ancelotti</category>
+            <category>Artículos Abraham Romero</category>
+            <media:description type="html">El técnico valora las declaraciones de Hazard, en las que aseguraba que no se hablaba con el italiano. Benzema, recuperado para enfrentarse al Liverpool.</media:description>
+            <media:title type="html">CHAMPIONS LEAGUE</media:title>
+            <guid>https://www.elmundo.es/deportes/futbol/champions-league/2023/03/14/64105a00fc6c8386458b4586.html</guid>
+            <pubDate>Tue, 14 Mar 2023 16:13:43 +0100</pubDate>
+        </item>
+        <item>
+            <title>Juan Carlos Unzué: "No me importa que me identifiquen con la ELA y no con el fútbol: es mi misión de vida"</title>
+            <description>Desde que, en 2020, le diagnosticaron ELA, ha pasado de entrenador y portero a icono y ejemplo. Esta vez quedamos para hablar de fútbol, pero... «En realidad, todo es lo mismo: cosas buenas, cosas malas, la vida», reflexiona&nbsp;<a href="https://www.elmundo.es/deportes/futbol/2023/03/14/6409d71321efa001458b4586.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/deportes.xml" alt=""/></description>
+            <dc:creator>Iñako Díaz-Guerra</dc:creator>
+            <link>https://www.elmundo.es/deportes/futbol/2023/03/14/6409d71321efa001458b4586.html</link>
+            <category>Entrevista vintage</category>
+            <category>Fútbol</category>
+            <category>Sevilla FC</category>
+            <category>CA Osasuna</category>
+            <category>FC Barcelona</category>
+            <category>Diego Maradona</category>
+            <category>Artículos Iñako Díaz-Guerra</category>
+            <media:description type="html">Desde que, en 2020, le diagnosticaron ELA, ha pasado de entrenador y portero a icono y ejemplo. Esta vez quedamos para hablar de fútbol, pero... «En realidad, todo es lo mismo: cosas buenas, cosas malas, la vida», reflexiona</media:description>
+            <media:title type="html">ENTREVISTA</media:title>
+            <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/13/16787375125134.jpg" medium="image" width="1200" height="800" />
+            <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/13/16787375125134_150x0.jpg" width="150" height="100" />
+            <guid>https://www.elmundo.es/deportes/futbol/2023/03/14/6409d71321efa001458b4586.html</guid>
+            <pubDate>Tue, 14 Mar 2023 15:22:44 +0100</pubDate>
+        </item>
+        <item>
+            <title>Piqué: "Si quieres comprar a un árbitro quedas con él, le das un sobre con dinero negro y se acabó"</title>
+            <description>El ex central del Barça aseguró en RAC 1 que "las cosas son mucho más sencillas que acudir a un vicepresidente del Comité Técnico de Árbitros", y dice que no conocía a Negreira ni sus supuestos informes&nbsp;<a href="https://www.elmundo.es/deportes/futbol/2023/03/14/64103c80fc6c83bb218b458b.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/deportes.xml" alt=""/></description>
+            <dc:creator>RICARDO F. COLMENERO</dc:creator>
+            <link>https://www.elmundo.es/deportes/futbol/2023/03/14/64103c80fc6c83bb218b458b.html</link>
+            <category>deportes</category>
+            <category>fútbol</category>
+            <category>Caso Negreira</category>
+            <category>Gerard Piqué</category>
+            <category>Joan Laporta</category>
+            <category>FC Barcelona</category>
+            <category>Artículos Ricardo F. Colmenero</category>
+            <media:description type="html">El ex central del Barça aseguró en RAC 1 que "las cosas son mucho más sencillas que acudir a un vicepresidente del Comité Técnico de Árbitros", y dice que no conocía a Negreira ni sus supuestos informes</media:description>
+            <media:title type="html">CASO NEGREIRA</media:title>
+            <guid>https://www.elmundo.es/deportes/futbol/2023/03/14/64103c80fc6c83bb218b458b.html</guid>
+            <pubDate>Tue, 14 Mar 2023 11:52:41 +0100</pubDate>
+        </item>
+        <item>
+            <title>Muere Cantudo, el que fue el fichaje más caro de la historia del Sevilla en los años 70</title>
+            <description>El canario costó al Sevilla 12 millones de pesetas en 1974 con una ficha anual de un millón de pesetas&nbsp;<a href="https://www.elmundo.es/deportes/futbol/primera-division/2023/03/14/64103281e4d4d80a318b4593.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/deportes.xml" alt=""/></description>
+            <dc:creator>EFE</dc:creator>
+            <link>https://www.elmundo.es/deportes/futbol/primera-division/2023/03/14/64103281e4d4d80a318b4593.html</link>
+            <category>Sevilla</category>
+            <category>fichaje</category>
+            <category>deportes</category>
+            <media:description type="html">El canario costó al Sevilla 12 millones de pesetas en 1974 con una ficha anual de un millón de pesetas</media:description>
+            <media:title type="html">LALIGA SANTANDER</media:title>
+            <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/14/16787829845539.jpg" medium="image" width="1200" height="800" />
+            <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/14/16787829845539_150x0.jpg" width="150" height="100" />
+            <guid>https://www.elmundo.es/deportes/futbol/primera-division/2023/03/14/64103281e4d4d80a318b4593.html</guid>
+            <pubDate>Tue, 14 Mar 2023 09:38:45 +0100</pubDate>
+        </item>
+        <item>
+            <title>La ucraniana Tsurenko se retira de Indian Wells por un ataque de pánico</title>
+            <description>Señaló que el ataque lo sufrió días después de mantener una conversación con el director ejecutivo de la WTA  sobre las tensiones en el juego como resultado de la invasión rusa a su país&nbsp;<a href="https://www.elmundo.es/deportes/tenis/2023/03/14/64101482e4d4d86a0c8b4571.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/deportes.xml" alt=""/></description>
+            <dc:creator>AFP</dc:creator>
+            <link>https://www.elmundo.es/deportes/tenis/2023/03/14/64101482e4d4d86a0c8b4571.html</link>
+            <category>Indian Wells</category>
+            <category>deportes</category>
+            <category>tenis</category>
+            <media:description type="html">Señaló que el ataque lo sufrió días después de mantener una conversación con el director ejecutivo de la WTA  sobre las tensiones en el juego como resultado de la invasión rusa a su país</media:description>
+            <media:title type="html">TENIS</media:title>
+            <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/14/16787753786845.jpg" medium="image" width="3072" height="4003" />
+            <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/14/16787753786845_150x0.jpg" width="150" height="195" />
+            <guid>https://www.elmundo.es/deportes/tenis/2023/03/14/64101482e4d4d86a0c8b4571.html</guid>
+            <pubDate>Tue, 14 Mar 2023 07:30:56 +0100</pubDate>
+        </item>
+        <item>
+            <title>El Madrid se pone a 300 en la Champions moderna: de aquella derrota en el Olímpico de Ámsterdam a 8 'orejonas'</title>
+            <description>Los blancos llegarán mañana a esa cifra desde que el torneo mutara en 1992. Su 'debut' fue en septiembre de 1995 ante el Ajax. Benzema igualará en partidos a Ramos y Ancelotti podría empatar a triunfos con Del Bosque.&nbsp;<a href="https://www.elmundo.es/deportes/futbol/champions-league/2023/03/14/640f4874fc6c83f5418b4592.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/deportes.xml" alt=""/></description>
+            <dc:creator>ABRAHAM P. ROMERO</dc:creator>
+            <link>https://www.elmundo.es/deportes/futbol/champions-league/2023/03/14/640f4874fc6c83f5418b4592.html</link>
+            <category>Liga de Campeones</category>
+            <category>Ajax</category>
+            <category>Sergio Ramos</category>
+            <category>Real Madrid</category>
+            <category>PSG</category>
+            <category>Kylian Mbappé</category>
+            <category>Fernando Hierro</category>
+            <category>UEFA</category>
+            <category>Raúl González</category>
+            <category>Luis Enrique</category>
+            <category>deportes</category>
+            <category>Fútbol</category>
+            <category>Artículos Abraham Romero</category>
+            <media:description type="html">Los blancos llegarán mañana a esa cifra desde que el torneo mutara en 1992. Su 'debut' fue en septiembre de 1995 ante el Ajax. Benzema igualará en partidos a Ramos y Ancelotti podría empatar a triunfos con Del Bosque.</media:description>
+            <media:title type="html">CHAMPIONS LEAGUE</media:title>
+            <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/13/16787289937032.jpg" medium="image" width="1808" height="1761" />
+            <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/13/16787289937032_150x0.jpg" width="150" height="146" />
+            <guid>https://www.elmundo.es/deportes/futbol/champions-league/2023/03/14/640f4874fc6c83f5418b4592.html</guid>
+            <pubDate>Tue, 14 Mar 2023 02:53:23 +0100</pubDate>
+        </item>
+        <item>
+            <title>Morata prolonga en el descuento la buena onda del Atlético</title>
+            <description>Un gol del delantero, al límite del fuera de juego, a la salida de un córner acaba con un sólido Girona&nbsp;<a href="https://www.elmundo.es/deportes/futbol/primera-division/2023/03/13/640f9513fc6c838b6f8b45b7.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/deportes.xml" alt=""/></description>
+            <dc:creator>LUCAS SÁEZ-BRAVO</dc:creator>
+            <link>https://www.elmundo.es/deportes/futbol/primera-division/2023/03/13/640f9513fc6c838b6f8b45b7.html</link>
+            <category>Girona</category>
+            <category>Memphis Depay</category>
+            <category>gol</category>
+            <category>deportes</category>
+            <category>Artículos Lucas Sáez-Bravo</category>
+            <media:description type="html">Un gol del delantero, al límite del fuera de juego, a la salida de un córner acaba con un sólido Girona</media:description>
+            <media:title type="html">LALIGA|Girona 0 Atlético 1</media:title>
+            <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/13/16787457190332.jpg" medium="image" width="3072" height="2049" />
+            <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/13/16787457190332_150x0.jpg" width="150" height="100" />
+            <guid>https://www.elmundo.es/deportes/futbol/primera-division/2023/03/13/640f9513fc6c838b6f8b45b7.html</guid>
+            <pubDate>Mon, 13 Mar 2023 23:39:54 +0100</pubDate>
+        </item>
+        <item>
+            <title>La 'justificación' de los ex altos cargos del Barça por el 'Caso Negreira': ''Pagábamos en defensa propia''</title>
+            <description>Algunos directivos investigados, en conversaciones privadas, dicen que contrataban al ex vicepresidente de los árbitros para compensar los favores que recibía el Real Madrid&nbsp;<a href="https://www.elmundo.es/deportes/futbol/2023/03/13/640f604ffc6c83be478b45a3.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/deportes.xml" alt=""/></description>
+            <dc:creator>ESTEBAN URREIZTIETA, ORFEO SUÁREZ</dc:creator>
+            <link>https://www.elmundo.es/deportes/futbol/2023/03/13/640f604ffc6c83be478b45a3.html</link>
+            <category>Joan Laporta</category>
+            <category>Agencia Tributaria</category>
+            <category>Real Madrid</category>
+            <category>RFEF</category>
+            <category>Josep Maria Bartomeu</category>
+            <category>deportes</category>
+            <category>Caso Negreira</category>
+            <category>fútbol</category>
+            <category>FC Barcelona</category>
+            <category>Artículos Esteban Urreiztieta</category>
+            <category>Artículos Orfeo Suárez</category>
+            <media:description type="html">Algunos directivos investigados, en conversaciones privadas, dicen que contrataban al ex vicepresidente de los árbitros para compensar los favores que recibía el Real Madrid</media:description>
+            <media:title type="html">FÚTBOL</media:title>
+            <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/13/16787303625942.jpg" medium="image" width="3072" height="2124" />
+            <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/13/16787303625942_150x0.jpg" width="150" height="103" />
+            <guid>https://www.elmundo.es/deportes/futbol/2023/03/13/640f604ffc6c83be478b45a3.html</guid>
+            <pubDate>Mon, 13 Mar 2023 22:47:41 +0100</pubDate>
+        </item>
+        <item>
+            <title>El Gobierno también se personará en el caso Negreira: "Un club no paga así por nada"</title>
+            <description>El presidente del Consejo Superior de Deportes muestra su "preocupación", habla de "descrédito para el deporte y el fútbol español" y pide al presidente del Barça, Joan Laporta, que aclare lo sucedido&nbsp;<a href="https://www.elmundo.es/deportes/futbol/2023/03/13/640f2264fdddffb1b48b4584.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/deportes.xml" alt=""/></description>
+            <dc:creator>GERMÁN GONZÁLEZ</dc:creator>
+            <link>https://www.elmundo.es/deportes/futbol/2023/03/13/640f2264fdddffb1b48b4584.html</link>
+            <category>deportes</category>
+            <category>CSD</category>
+            <category>Joan Laporta</category>
+            <category>Caso Negreira</category>
+            <category>FC Barcelona</category>
+            <media:description type="html">El presidente del Consejo Superior de Deportes muestra su "preocupación", habla de "descrédito para el deporte y el fútbol español" y pide al presidente del Barça, Joan Laporta, que aclare lo sucedido</media:description>
+            <media:title type="html">FÚTBOL</media:title>
+            <guid>https://www.elmundo.es/deportes/futbol/2023/03/13/640f2264fdddffb1b48b4584.html</guid>
+            <pubDate>Mon, 13 Mar 2023 14:43:09 +0100</pubDate>
+        </item>
+        <item>
+            <title>Scotty Scheffler domina el The Players y arrebata a Rahm el número uno del mundo</title>
+            <description>Administra su ventaja y ganar con -17, cinco de ventaja sobre Hatton&nbsp;<a href="https://www.elmundo.es/deportes/golf/2023/03/13/640e5f8021efa0bf238b4585.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/deportes.xml" alt=""/></description>
+            <dc:creator>HUGO COSTA</dc:creator>
+            <link>https://www.elmundo.es/deportes/golf/2023/03/13/640e5f8021efa0bf238b4585.html</link>
+            <media:description type="html">Administra su ventaja y ganar con -17, cinco de ventaja sobre Hatton</media:description>
+            <media:title type="html">GOLF|The Players Championship</media:title>
+            <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/13/16786634649931.jpg" medium="image" width="3072" height="2048" />
+            <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/13/16786634649931_150x0.jpg" width="150" height="100" />
+            <guid>https://www.elmundo.es/deportes/golf/2023/03/13/640e5f8021efa0bf238b4585.html</guid>
+            <pubDate>Mon, 13 Mar 2023 08:33:13 +0100</pubDate>
+        </item>
+        <item>
+            <title>Combate nulo entre Villarreal y Betis por Europa</title>
+            <description>El Villarreal no pasa del empate ante un Betis que se adelantó al aprovechar un error de Reina. El gol de Yeremy, validado por el VAR, premió la reacción amarilla&nbsp;<a href="https://www.elmundo.es/deportes/futbol/primera-division/2023/03/12/640e3103fc6c8346658b45ad.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/deportes.xml" alt=""/></description>
+            <dc:creator>EDU CHOVA</dc:creator>
+            <link>https://www.elmundo.es/deportes/futbol/primera-division/2023/03/12/640e3103fc6c8346658b45ad.html</link>
+            <category>Castellón</category>
+            <category>Fútbol</category>
+            <category>La Liga</category>
+            <category>Villarreal CF</category>
+            <category>Real Betis Balompié</category>
+            <media:description type="html">El Villarreal no pasa del empate ante un Betis que se adelantó al aprovechar un error de Reina. El gol de Yeremy, validado por el VAR, premió la reacción amarilla</media:description>
+            <media:title type="html">LALIGA SANTANDER 2022 - 2023</media:title>
+            <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/12/16786517076925.jpg" medium="image" width="2404" height="1602" />
+            <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/12/16786517076925_150x0.jpg" width="150" height="99" />
+            <guid>https://www.elmundo.es/deportes/futbol/primera-division/2023/03/12/640e3103fc6c8346658b45ad.html</guid>
+            <pubDate>Sun, 12 Mar 2023 21:13:50 +0100</pubDate>
+        </item>
+        <item>
+            <title>Eli Ndiaye, última gran promesa... ¿hasta cuándo?</title>
+            <description>&nbsp;<a href="https://www.elmundo.es/deportes/baloncesto/liga-endesa/2023/03/12/640e10eefdddff21608b4577.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/deportes.xml" alt=""/></description>
+            <dc:creator>VICENTE SALANER</dc:creator>
+            <link>https://www.elmundo.es/deportes/baloncesto/liga-endesa/2023/03/12/640e10eefdddff21608b4577.html</link>
+            <category>Real Madrid</category>
+            <category>Usman Garuba</category>
+            <category>Bilbao Basket</category>
+            <category>Walter Tavares</category>
+            <category>Luka Doncic</category>
+            <category>Joventut de Badalona</category>
+            <category>cantera</category>
+            <category>deportes</category>
+            <category>Artículos Víctor de la Serna</category>
+            <media:description type="html">Las canteras famosas del baloncesto español -el Estudiantes madrileño, el Joventut de Badalona- han producido estos últimos tiempos menos jugadores notables que la del Real Madr</media:description>
+            <media:title type="html">HASTA LA COCINA</media:title>
+            <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/12/16786435563279.jpg" medium="image" width="3072" height="2047" />
+            <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/12/16786435563279_150x0.jpg" width="150" height="99" />
+            <guid>https://www.elmundo.es/deportes/baloncesto/liga-endesa/2023/03/12/640e10eefdddff21608b4577.html</guid>
+            <pubDate>Sun, 12 Mar 2023 19:00:27 +0100</pubDate>
+        </item>
+        <item>
+            <title>Jorge Campillo gana en Kenia, como Seve Ballesteros</title>
+            <description>El golfista español se hizo con la victoria final en el Abierto de Kenia, disputado en el Muthaiga GC de Nairobi, después de defender el liderato que había alcanzado a la conclusión de la tercera jornada.&nbsp;<a href="https://www.elmundo.es/deportes/golf/2023/03/12/640e08b9fdddff879b8b4584.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/deportes.xml" alt=""/></description>
+            <dc:creator>HUGO COSTA</dc:creator>
+            <link>https://www.elmundo.es/deportes/golf/2023/03/12/640e08b9fdddff879b8b4584.html</link>
+            <category>Kenia</category>
+            <category>deportes</category>
+            <category>golf</category>
+            <media:description type="html">El golfista español se hizo con la victoria final en el Abierto de Kenia, disputado en el Muthaiga GC de Nairobi, después de defender el liderato que había alcanzado a la conclusión de la tercera jornada.</media:description>
+            <media:title type="html">GOLF</media:title>
+            <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/12/16786418319134.jpg" medium="image" width="680" height="680" />
+            <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/12/16786418319134_150x0.jpg" width="150" height="150" />
+            <guid>https://www.elmundo.es/deportes/golf/2023/03/12/640e08b9fdddff879b8b4584.html</guid>
+            <pubDate>Sun, 12 Mar 2023 18:25:12 +0100</pubDate>
+        </item>
+        <item>
+            <title>Simeone: o Diego o Pablo</title>
+            <description>&nbsp;<a href="https://www.elmundo.es/deportes/futbol/primera-division/2023/03/12/640df9d1fc6c8394018b45af.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/deportes.xml" alt=""/></description>
+            <dc:creator>CARLOS TORO</dc:creator>
+            <link>https://www.elmundo.es/deportes/futbol/primera-division/2023/03/12/640df9d1fc6c8394018b45af.html</link>
+            <category>deportes</category>
+            <category>fútbol</category>
+            <category>Atlético de Madrid</category>
+            <category>Diego Simeone</category>
+            <category>Artículos Carlos Toro</category>
+            <media:description type="html">El Atleti cierra en Montilivi, frente a un Girona presidido por un ex jugador rojiblanco, <strong>Delfí Geli,</strong> la 25ª jornada de Liga. En la 24ª le infligió en ese estad</media:description>
+            <media:title type="html">EL RUEDO IBÉRICO</media:title>
+            <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/12/16786374540471.jpg" medium="image" width="3072" height="2043" />
+            <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/12/16786374540471_150x0.jpg" width="150" height="99" />
+            <guid>https://www.elmundo.es/deportes/futbol/primera-division/2023/03/12/640df9d1fc6c8394018b45af.html</guid>
+            <pubDate>Sun, 12 Mar 2023 17:12:11 +0100</pubDate>
+        </item>
+        <item>
+            <title>La Federación Internacional de Esgrima admite a rusos y a bielorrusos</title>
+            <description>El Congreso Extraordinario aprueba su regreso por 91 votos a favor y 46 en contra y podrían participar en la Copa del Mundo de florete femenino del 21 de abril&nbsp;<a href="https://www.elmundo.es/deportes/mas-deporte/2023/03/12/640ded02fc6c8394018b45a7.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/deportes.xml" alt=""/></description>
+            <dc:creator>JAVIER LORENZO</dc:creator>
+            <link>https://www.elmundo.es/deportes/mas-deporte/2023/03/12/640ded02fc6c8394018b45a7.html</link>
+            <category>COI</category>
+            <category>CSD</category>
+            <category>deportes</category>
+            <category>Esgrima JJOO</category>
+            <media:description type="html">El Congreso Extraordinario aprueba su regreso por 91 votos a favor y 46 en contra y podrían participar en la Copa del Mundo de florete femenino del 21 de abril</media:description>
+            <media:title type="html">MÁS DEPORTE</media:title>
+            <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/12/16786348137370.jpg" medium="image" width="1024" height="637" />
+            <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/12/16786348137370_150x0.jpg" width="150" height="93" />
+            <guid>https://www.elmundo.es/deportes/mas-deporte/2023/03/12/640ded02fc6c8394018b45a7.html</guid>
+            <pubDate>Sun, 12 Mar 2023 16:48:25 +0100</pubDate>
+        </item>
+        <item>
+            <title>Shiffrin forever</title>
+            <description>&nbsp;<a href="https://www.elmundo.es/deportes/nieve/2023/03/12/640c9d5321efa0195b8b45b7.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/deportes.xml" alt=""/></description>
+            <dc:creator>CARLOS TORO</dc:creator>
+            <link>https://www.elmundo.es/deportes/nieve/2023/03/12/640c9d5321efa0195b8b45b7.html</link>
+            <category>deportes</category>
+            <category>esquí</category>
+            <category>Suecia</category>
+            <category>Meta</category>
+            <category>Sueño</category>
+            <category>Artículos Carlos Toro</category>
+            <media:description type="html">Como era de prever, e incluso de desear a mayor gloria de las <strong>hermosas mitologías de personas y hechos de este mundo</strong>, Mikaela Shiffrin, corona sobre coronas, tr</media:description>
+            <media:title type="html">NIEVE</media:title>
+            <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/11/16785481027366.jpg" medium="image" width="3072" height="2048" />
+            <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/11/16785481027366_150x0.jpg" width="150" height="100" />
+            <guid>https://www.elmundo.es/deportes/nieve/2023/03/12/640c9d5321efa0195b8b45b7.html</guid>
+            <pubDate>Sun, 12 Mar 2023 09:24:45 +0100</pubDate>
+        </item>
+        <item>
+            <title>Scotty Scheffler aprovecha la oportunidad y ya lidera el The Players Championship</title>
+            <description>Con las notables bajas de Jon Rahm, Rory McIIlroy y Justin Thomas, el panorama quedó limpio para el golfista tejano&nbsp;<a href="https://www.elmundo.es/deportes/golf/2023/03/12/640d2d61fc6c831a7d8b459e.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/deportes.xml" alt=""/></description>
+            <dc:creator>HUGO COSTA</dc:creator>
+            <link>https://www.elmundo.es/deportes/golf/2023/03/12/640d2d61fc6c831a7d8b459e.html</link>
+            <media:description type="html">Con las notables bajas de Jon Rahm, Rory McIIlroy y Justin Thomas, el panorama quedó limpio para el golfista tejano</media:description>
+            <media:title type="html">GOLF</media:title>
+            <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/12/16785850047223.jpg" medium="image" width="3072" height="2048" />
+            <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/12/16785850047223_150x0.jpg" width="150" height="100" />
+            <guid>https://www.elmundo.es/deportes/golf/2023/03/12/640d2d61fc6c831a7d8b459e.html</guid>
+            <pubDate>Sun, 12 Mar 2023 02:42:28 +0100</pubDate>
+        </item>
+        <item>
+            <title>¿Hasta cuándo se podrá esquiar si cada vez hay menos nieve? "Muchas cosas cambiarán, pero habrá deporte seguro"</title>
+            <description>En 2050 habrá la mitad de nieve en los Pirineos, pero las estaciones españolas se preparan con los avances de la nieve artificial. "Potenciamos mucho las actividades que no son esquí o snow", dicen desde la estación de la Vall de Núria&nbsp;<a href="https://www.elmundo.es/deportes/nieve/2023/03/12/640b43c6fc6c837d2f8b459b.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/deportes.xml" alt=""/></description>
+            <dc:creator>JAVIER SÁNCHEZ</dc:creator>
+            <link>https://www.elmundo.es/deportes/nieve/2023/03/12/640b43c6fc6c837d2f8b459b.html</link>
+            <category>deportes</category>
+            <category>Deportes de Invierno</category>
+            <category>esquí</category>
+            <category>Andorra</category>
+            <category>Invierno</category>
+            <category>Artículos Javier Sánchez</category>
+            <media:description type="html">En 2050 habrá la mitad de nieve en los Pirineos, pero las estaciones españolas se preparan con los avances de la nieve artificial. "Potenciamos mucho las actividades que no son esquí o snow", dicen desde la estación de la Vall de Núria</media:description>
+            <media:title type="html">NIEVE</media:title>
+            <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/10/16784598729462.jpg" medium="image" width="3072" height="2304" />
+            <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/10/16784598729462_150x0.jpg" width="150" height="112" />
+            <guid>https://www.elmundo.es/deportes/nieve/2023/03/12/640b43c6fc6c837d2f8b459b.html</guid>
+            <pubDate>Sun, 12 Mar 2023 01:46:31 +0100</pubDate>
+        </item>
+        <item>
+            <title>El Madrid pasa al ataque en el 'Caso Negreira': el plan del silencio, una acusación "gravísima" y el 'socio' Laporta</title>
+            <description>La directiva del conjunto blanco decidirá este domingo si se persona como acusación particular contra el Barça. El club, después de semanas de silencio, hizo público ayer su malestar. La situación de Laporta, clave como principal aliado contra Tebas y la UEFA.&nbsp;<a href="https://www.elmundo.es/deportes/futbol/2023/03/12/640cc9ff21efa0195b8b45c1.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/deportes.xml" alt=""/></description>
+            <dc:creator>ABRAHAM P. ROEMRO</dc:creator>
+            <link>https://www.elmundo.es/deportes/futbol/2023/03/12/640cc9ff21efa0195b8b45c1.html</link>
+            <category>Fútbol</category>
+            <category>deportes</category>
+            <category>Real Madrid</category>
+            <category>Caso Negreira</category>
+            <category>FC Barcelona</category>
+            <category>Artículos Abraham Romero</category>
+            <media:description type="html">La directiva del conjunto blanco decidirá este domingo si se persona como acusación particular contra el Barça. El club, después de semanas de silencio, hizo público ayer su malestar. La situación de Laporta, clave como principal aliado contra Tebas y la UEFA.</media:description>
+            <media:title type="html">FÚTBOL</media:title>
+            <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/11/16785594979743.jpg" medium="image" width="2050" height="1366" />
+            <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/11/16785594979743_150x0.jpg" width="150" height="99" />
+            <guid>https://www.elmundo.es/deportes/futbol/2023/03/12/640cc9ff21efa0195b8b45c1.html</guid>
+            <pubDate>Sun, 12 Mar 2023 01:46:27 +0100</pubDate>
+        </item>
+        <item>
+            <title>El Valencia se impulsa en Mestalla con tres puntos vitales ante Osasuna</title>
+            <description>El gol de Kluivert da aire al equipo de Baraja, muy serio ante un Osasuna al ralentí que apenas inquietó. Sale de los puestos de descenso&nbsp;<a href="https://www.elmundo.es/deportes/futbol/primera-division/2023/03/11/640cff34fc6c8394018b458e.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/deportes.xml" alt=""/></description>
+            <dc:creator>INMA LIDÓN</dc:creator>
+            <link>https://www.elmundo.es/deportes/futbol/primera-division/2023/03/11/640cff34fc6c8394018b458e.html</link>
+            <category>deportes</category>
+            <category>Valencia CF</category>
+            <category>CA Osasuna</category>
+            <category>Artículos Inma Lidón</category>
+            <media:description type="html">El gol de Kluivert da aire al equipo de Baraja, muy serio ante un Osasuna al ralentí que apenas inquietó. Sale de los puestos de descenso</media:description>
+            <media:title type="html">LALIGA SANTANDER|Valencia 1 Osasuna 0</media:title>
+            <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/11/16785732771937.jpg" medium="image" width="3072" height="2048" />
+            <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/11/16785732771937_150x0.jpg" width="150" height="100" />
+            <guid>https://www.elmundo.es/deportes/futbol/primera-division/2023/03/11/640cff34fc6c8394018b458e.html</guid>
+            <pubDate>Sat, 11 Mar 2023 23:22:51 +0100</pubDate>
+        </item>
+        <item>
+            <title>Joao Félix ya sobra en el Chelsea: gol anulado, error que cuesta el empate y sustituido al descanso</title>
+            <description>Un gol y ninguna asistencia en ocho partidos llevan a Potter a prescindir del portugués mientras él asegura haber encontrado la felicidad lejos de Simeone&nbsp;<a href="https://www.elmundo.es/deportes/futbol/premier-league/2023/03/11/640ccf49e4d4d84a7d8b456d.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/deportes.xml" alt=""/></description>
+            <dc:creator>RICARDO F. COLMENERO</dc:creator>
+            <link>https://www.elmundo.es/deportes/futbol/premier-league/2023/03/11/640ccf49e4d4d84a7d8b456d.html</link>
+            <category>deportes</category>
+            <category>Fútbol</category>
+            <category>Chelsea FC</category>
+            <category>Joao Félix</category>
+            <category>Premier League</category>
+            <category>Artículos Ricardo F. Colmenero</category>
+            <media:description type="html">Un gol y ninguna asistencia en ocho partidos llevan a Potter a prescindir del portugués mientras él asegura haber encontrado la felicidad lejos de Simeone</media:description>
+            <media:title type="html">PREMIER LEAGUE</media:title>
+            <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/11/16785608424965.jpg" medium="image" width="1209" height="895" />
+            <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/11/16785608424965_150x0.jpg" width="150" height="111" />
+            <guid>https://www.elmundo.es/deportes/futbol/premier-league/2023/03/11/640ccf49e4d4d84a7d8b456d.html</guid>
+            <pubDate>Sat, 11 Mar 2023 19:58:25 +0100</pubDate>
+        </item>
+        <item>
+            <title>Los cánticos del Bernabéu contra el Barça y la queja de Vinicius: "Cuando es contra mí, ni pitan ni sacan tarjeta"</title>
+            <description>Chamartín mostró su enfado con el eterno rival y el brasileño no se calló después de que le sacaran su octava amarilla de la temporada. "Le han sacado muchas amarillas para las patadas que recibe", le defendió Ancelotti.&nbsp;<a href="https://www.elmundo.es/deportes/futbol/primera-division/2023/03/11/640c9ec5fc6c832a258b4591.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/deportes.xml" alt=""/></description>
+            <dc:creator>ABRAHAM P. ROMERO</dc:creator>
+            <link>https://www.elmundo.es/deportes/futbol/primera-division/2023/03/11/640c9ec5fc6c832a258b4591.html</link>
+            <category>Vinicius Júnior</category>
+            <category>El Clásico</category>
+            <category>FC Barcelona</category>
+            <category>deportes</category>
+            <category>Primera División</category>
+            <category>Real Madrid</category>
+            <category>Artículos Abraham Romero</category>
+            <media:description type="html">Chamartín mostró su enfado con el eterno rival y el brasileño no se calló después de que le sacaran su octava amarilla de la temporada. "Le han sacado muchas amarillas para las patadas que recibe", le defendió Ancelotti.</media:description>
+            <media:title type="html">LALIGA SANTANDER</media:title>
+            <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/11/16785538511745.jpg" medium="image" width="1984" height="1328" />
+            <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/11/16785538511745_150x0.jpg" width="150" height="100" />
+            <guid>https://www.elmundo.es/deportes/futbol/primera-division/2023/03/11/640c9ec5fc6c832a258b4591.html</guid>
+            <pubDate>Sat, 11 Mar 2023 18:11:45 +0100</pubDate>
+        </item>
+        <item>
+            <title>El asombroso inicio de año de Tadej Pogacar</title>
+            <description>El esloveno, que este domingo puede sentenciar la París-Niza ante Vingegaard, suma siete victorias en 12 días de competición&nbsp;<a href="https://www.elmundo.es/deportes/ciclismo/2023/03/11/640cb00dfc6c83e27c8b4594.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/deportes.xml" alt=""/></description>
+            <dc:creator>LUCAS SÁEZ-BRAVO</dc:creator>
+            <link>https://www.elmundo.es/deportes/ciclismo/2023/03/11/640cb00dfc6c83e27c8b4594.html</link>
+            <category>Tadej Pogacar</category>
+            <category>Francia</category>
+            <category>París-Niza</category>
+            <category>Primoz Roglic</category>
+            <category>Tirreno-Adriático</category>
+            <category>Mikel Landa</category>
+            <category>Vuelta a Andalucía</category>
+            <category>París</category>
+            <category>Clásicas de Ciclismo</category>
+            <category>deportes</category>
+            <category>Artículos Lucas Sáez-Bravo</category>
+            <media:description type="html">El esloveno, que este domingo puede sentenciar la París-Niza ante Vingegaard, suma siete victorias en 12 días de competición</media:description>
+            <media:title type="html">CICLISMO</media:title>
+            <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/11/16785531380199.jpg" medium="image" width="3072" height="2047" />
+            <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/11/16785531380199_150x0.jpg" width="150" height="99" />
+            <guid>https://www.elmundo.es/deportes/ciclismo/2023/03/11/640cb00dfc6c83e27c8b4594.html</guid>
+            <pubDate>Sat, 11 Mar 2023 18:02:35 +0100</pubDate>
+        </item>
+        <item>
+            <title>Un horizonte azulgrana para el Madrid</title>
+            <description>&nbsp;<a href="https://www.elmundo.es/deportes/futbol/primera-division/2023/03/11/640ca6d1e4d4d8f62e8b457d.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/deportes.xml" alt=""/></description>
+            <dc:creator>JULIÁN RUÍZ</dc:creator>
+            <link>https://www.elmundo.es/deportes/futbol/primera-division/2023/03/11/640ca6d1e4d4d8f62e8b457d.html</link>
+            <category>deportes</category>
+            <category>Real Madrid</category>
+            <category>Vinicius Júnior</category>
+            <category>Aurélien Tchouaméni</category>
+            <category>Nacho Fernández</category>
+            <category>Luka Modric</category>
+            <category>Artículos Julián Ruiz</category>
+            <media:description type="html">El Madrid tenía que ganar y ganó. Con apreturas hacia el final, con la clara superioridad técnica ejercida sobre el Espanyol, <strong>un equipo siempre amigo</strong>, pero abso</media:description>
+            <media:title type="html">EL CORTADOR DE CÉSPED</media:title>
+            <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/11/16785506475634.jpg" medium="image" width="3072" height="2047" />
+            <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/11/16785506475634_150x0.jpg" width="150" height="99" />
+            <guid>https://www.elmundo.es/deportes/futbol/primera-division/2023/03/11/640ca6d1e4d4d8f62e8b457d.html</guid>
+            <pubDate>Sat, 11 Mar 2023 17:05:50 +0100</pubDate>
+        </item>
+        <item>
+            <title>Xavi: "El presidente nos dice que estemos tranquilos"</title>
+            <description>El entrenador del Barça trata de aislar al equipo de las investigaciones de la Fiscalía en víspera del partido ante el Athletic&nbsp;<a href="https://www.elmundo.es/deportes/futbol/primera-division/2023/03/11/640c9f5b21efa028058b45a5.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/deportes.xml" alt=""/></description>
+            <dc:creator>AMADEU GARCÍA</dc:creator>
+            <link>https://www.elmundo.es/deportes/futbol/primera-division/2023/03/11/640c9f5b21efa028058b45a5.html</link>
+            <category>deportes</category>
+            <category>fútbol</category>
+            <category>FC Barcelona</category>
+            <category>Xavi Hernández</category>
+            <category>Caso Negreira</category>
+            <media:description type="html">El entrenador del Barça trata de aislar al equipo de las investigaciones de la Fiscalía en víspera del partido ante el Athletic</media:description>
+            <media:title type="html">CASO NEGREIRA</media:title>
+            <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/11/16785487529802.jpg" medium="image" width="3072" height="2048" />
+            <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/11/16785487529802_150x0.jpg" width="150" height="100" />
+            <guid>https://www.elmundo.es/deportes/futbol/primera-division/2023/03/11/640c9f5b21efa028058b45a5.html</guid>
+            <pubDate>Sat, 11 Mar 2023 16:36:28 +0100</pubDate>
+        </item>
+        <item>
+            <title>El Madrid reacciona a tiempo contra el Espanyol y presiona al Barça antes del clásico</title>
+            <description>Los blancos remontan un gol de Joselu, ganan 3-1 al Espanyol y se quedan a seis puntos de los azulgrana, que mañana visitan San Mamés.&nbsp;<a href="https://www.elmundo.es/deportes/futbol/primera-division/2023/03/11/640c7fa0e4d4d8a8368b45b5.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/deportes.xml" alt=""/></description>
+            <dc:creator>ABRAHAM P. ROMERO</dc:creator>
+            <link>https://www.elmundo.es/deportes/futbol/primera-division/2023/03/11/640c7fa0e4d4d8a8368b45b5.html</link>
+            <category>Aurélien Tchouaméni</category>
+            <category>Luka Modric</category>
+            <category>Vinicius Júnior</category>
+            <category>El Clásico</category>
+            <category>Nacho Fernández</category>
+            <category>Courtois</category>
+            <category>Thibaut Courtois</category>
+            <category>Rodrygo Goes</category>
+            <category>Dani Carvajal</category>
+            <category>deportes</category>
+            <category>Primera División</category>
+            <category>Fútbol</category>
+            <category>Real Madrid</category>
+            <category>Artículos Abraham Romero</category>
+            <media:description type="html">Los blancos remontan un gol de Joselu, ganan 3-1 al Espanyol y se quedan a seis puntos de los azulgrana, que mañana visitan San Mamés.</media:description>
+            <media:title type="html">LALIGA SANTANDER|Real Madrid - Espanyol (3-1)</media:title>
+            <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/11/16785465212222.jpg" medium="image" width="3072" height="2048" />
+            <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/11/16785465212222_150x0.jpg" width="150" height="100" />
+            <guid>https://www.elmundo.es/deportes/futbol/primera-division/2023/03/11/640c7fa0e4d4d8a8368b45b5.html</guid>
+            <pubDate>Sat, 11 Mar 2023 15:58:54 +0100</pubDate>
+        </item>
+        <item>
+            <title>El Real Madrid estudia personarse como acusación particular ante las sospechas de "corrupción" en el Barça</title>
+            <description>En el primer comunicado desde el escándalo del 'Caso Negreira', Florentino Pérez ha programado una reunión de urgencia de su Junta Directiva. La idea, personarse como acusación particular.&nbsp;<a href="https://www.elmundo.es/deportes/futbol/2023/03/11/640c5dadfc6c83e27c8b457c.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/deportes.xml" alt=""/></description>
+            <dc:creator>ABRAHAM P. ROMERO</dc:creator>
+            <link>https://www.elmundo.es/deportes/futbol/2023/03/11/640c5dadfc6c83e27c8b457c.html</link>
+            <category>Joan Laporta</category>
+            <category>Real Madrid</category>
+            <category>EL MUNDO</category>
+            <category>UEFA</category>
+            <category>El Clásico</category>
+            <category>Josep Maria Bartomeu</category>
+            <category>fiscalía</category>
+            <category>Caso Negreira</category>
+            <category>deportes</category>
+            <category>Fútbol</category>
+            <category>FC Barcelona</category>
+            <category>Florentino Pérez Rodríguez</category>
+            <category>Artículos Abraham Romero</category>
+            <media:description type="html">En el primer comunicado desde el escándalo del 'Caso Negreira', Florentino Pérez ha programado una reunión de urgencia de su Junta Directiva. La idea, personarse como acusación particular.</media:description>
+            <media:title type="html">FÚTBOL</media:title>
+            <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/11/16785319036244.jpg" medium="image" width="3072" height="2043" />
+            <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/11/16785319036244_150x0.jpg" width="150" height="99" />
+            <guid>https://www.elmundo.es/deportes/futbol/2023/03/11/640c5dadfc6c83e27c8b457c.html</guid>
+            <pubDate>Sat, 11 Mar 2023 14:05:37 +0100</pubDate>
+        </item>
+        <item>
+            <title>EL MUNDO desveló las pruebas clave que sirvieron a la Fiscalía para acusar al Barça</title>
+            <description>El Ministerio Público sitúa como uno de los pilares de su acusación por corromper árbitros el burofax publicado por este periódico el pasado 17 de febrero&nbsp;<a href="https://www.elmundo.es/deportes/futbol/2023/03/11/640b96dafc6c83c3048b45cd.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/deportes.xml" alt=""/></description>
+            <dc:creator>ESTEBAN URREIZTIETA, ORFEO SUÁREZ</dc:creator>
+            <link>https://www.elmundo.es/deportes/futbol/2023/03/11/640b96dafc6c83c3048b45cd.html</link>
+            <category>Artículos Esteban Urreiztieta</category>
+            <category>Artículos Orfeo Suárez</category>
+            <media:description type="html">El Ministerio Público sitúa como uno de los pilares de su acusación por corromper árbitros el burofax publicado por este periódico el pasado 17 de febrero</media:description>
+            <media:title type="html">CASO NEGREIRA</media:title>
+            <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/11/16785263219188.jpg" medium="image" width="3072" height="2284" />
+            <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/11/16785263219188_150x0.jpg" width="150" height="111" />
+            <guid>https://www.elmundo.es/deportes/futbol/2023/03/11/640b96dafc6c83c3048b45cd.html</guid>
+            <pubDate>Sat, 11 Mar 2023 10:21:03 +0100</pubDate>
+        </item>
+        <item>
+            <title>Laporta debe poner su cargo a disposición de los socios</title>
+            <description>&nbsp;<a href="https://www.elmundo.es/deportes/futbol/2023/03/10/640b6faffdddff701b8b4574.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/deportes.xml" alt=""/></description>
+            <dc:creator>ORFEO SUÁREZ</dc:creator>
+            <link>https://www.elmundo.es/deportes/futbol/2023/03/10/640b6faffdddff701b8b4574.html</link>
+            <category>deportes</category>
+            <category>Caso Negreira</category>
+            <category>Joan Laporta</category>
+            <category>FC Barcelona</category>
+            <category>Artículos Orfeo Suárez</category>
+            <media:description type="html">El calado de las acusaciones de Fiscalía convierte al 'caso Negreira' en el más grave de la historia del fútbol español. A la espera de que lo determine el proceso de instrucció</media:description>
+            <media:title type="html">CASO NEGREIRA</media:title>
+            <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/07/16782007934927.jpg" medium="image" width="3072" height="2048" />
+            <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/07/16782007934927_150x0.jpg" width="150" height="100" />
+            <guid>https://www.elmundo.es/deportes/futbol/2023/03/10/640b6faffdddff701b8b4574.html</guid>
+            <pubDate>Sat, 11 Mar 2023 07:56:51 +0100</pubDate>
+        </item>
+        <item>
+            <title>La accidentada segunda jornada del The Players; retirada de Rahm y juego suspendido</title>
+            <description>El golfista español se tuvo que retirar aquejado de una gastroenteritis&nbsp;<a href="https://www.elmundo.es/deportes/golf/2023/03/11/640bb593fc6c83a1718b45de.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/deportes.xml" alt=""/></description>
+            <dc:creator>HUGO COSTA</dc:creator>
+            <link>https://www.elmundo.es/deportes/golf/2023/03/11/640bb593fc6c83a1718b45de.html</link>
+            <media:description type="html">El golfista español se tuvo que retirar aquejado de una gastroenteritis</media:description>
+            <media:title type="html">GOLF</media:title>
+            <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/10/16784891629224.jpg" medium="image" width="3072" height="2048" />
+            <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/10/16784891629224_150x0.jpg" width="150" height="100" />
+            <guid>https://www.elmundo.es/deportes/golf/2023/03/11/640bb593fc6c83a1718b45de.html</guid>
+            <pubDate>Sat, 11 Mar 2023 00:03:12 +0100</pubDate>
+        </item>
+        <item>
+            <title>Media Liga pelea por no descender: cinco puntos separan al undécimo del descenso</title>
+            <description>Pueden necesitarse más de 40 puntos para mantener la categoría, algo que no sucedía desde la temporada 13/14&nbsp;<a href="https://www.elmundo.es/deportes/futbol/primera-division/2023/03/10/640b9358e4d4d80a7e8b45df.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/deportes.xml" alt=""/></description>
+            <dc:creator>INMA LIDÓN</dc:creator>
+            <link>https://www.elmundo.es/deportes/futbol/primera-division/2023/03/10/640b9358e4d4d80a7e8b45df.html</link>
+            <category>deportes</category>
+            <category>fútbol</category>
+            <category>La Liga</category>
+            <category>Sevilla</category>
+            <category>Valencia</category>
+            <category>Valladolid</category>
+            <category>Getafe</category>
+            <category>Elche</category>
+            <category>Girona</category>
+            <category>Almería</category>
+            <category>Artículos Inma Lidón</category>
+            <media:description type="html">Pueden necesitarse más de 40 puntos para mantener la categoría, algo que no sucedía desde la temporada 13/14</media:description>
+            <media:title type="html">LALIGA SANTANDER</media:title>
+            <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/10/16784801683788.jpg" medium="image" width="1121" height="886" />
+            <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/10/16784801683788_150x0.jpg" width="150" height="118" />
+            <guid>https://www.elmundo.es/deportes/futbol/primera-division/2023/03/10/640b9358e4d4d80a7e8b45df.html</guid>
+            <pubDate>Fri, 10 Mar 2023 23:56:16 +0100</pubDate>
+        </item>
+        <item>
+            <title>Griezmann y las segundas oportunidades</title>
+            <description>A veces, lo que hace que un jugador bueno pase a ser muy bueno es que el primero sueña con irse y el segundo daría todo por quedarse&nbsp;<a href="https://www.elmundo.es/deportes/futbol/2023/03/10/640b5486fdddff90478b45a2.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/deportes.xml" alt=""/></description>
+            <dc:creator>PEDRO SIMÓN</dc:creator>
+            <link>https://www.elmundo.es/deportes/futbol/2023/03/10/640b5486fdddff90478b45a2.html</link>
+            <category>Atlético de Madrid</category>
+            <category>Artículos Pedro Simón</category>
+            <media:description type="html">A veces, lo que hace que un jugador bueno pase a ser muy bueno es que el primero sueña con irse y el segundo daría todo por quedarse</media:description>
+            <media:title type="html">ORSAY</media:title>
+            <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/10/16784644066738.jpg" medium="image" width="1024" height="682" />
+            <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/10/16784644066738_150x0.jpg" width="150" height="99" />
+            <guid>https://www.elmundo.es/deportes/futbol/2023/03/10/640b5486fdddff90478b45a2.html</guid>
+            <pubDate>Fri, 10 Mar 2023 21:49:27 +0100</pubDate>
+        </item>
+        <item>
+            <title>El Fenerbahçe no da opción al Barça en Estambul</title>
+            <description>Tercera derrota consecutiva del Barça, que complica sus opciones de acabar entre los cuatro primeros&nbsp;<a href="https://www.elmundo.es/deportes/baloncesto/euroliga/2023/03/10/640b8efafdddffd71f8b457f.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/deportes.xml" alt=""/></description>
+            <dc:creator>AMADEU GARCÍA</dc:creator>
+            <link>https://www.elmundo.es/deportes/baloncesto/euroliga/2023/03/10/640b8efafdddffd71f8b457f.html</link>
+            <category>FC Barcelona</category>
+            <category>Euroliga</category>
+            <media:description type="html">Tercera derrota consecutiva del Barça, que complica sus opciones de acabar entre los cuatro primeros</media:description>
+            <media:title type="html">EUROLIGA|Fenerbahçe 81 - Barcelona 73</media:title>
+            <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/10/16784785353599.jpg" medium="image" width="2048" height="1364" />
+            <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/10/16784785353599_150x0.jpg" width="150" height="99" />
+            <guid>https://www.elmundo.es/deportes/baloncesto/euroliga/2023/03/10/640b8efafdddffd71f8b457f.html</guid>
+            <pubDate>Fri, 10 Mar 2023 21:12:03 +0100</pubDate>
+        </item>
+        <item>
+            <title>Rahm se queda fuera del The Players por una gastroenteritis</title>
+            <description>El próximo evento en el que participará será el Dell Technologies Match Play que se disputará a finales de mes en Austin (Texas), dos semanas antes del Masters de Agusta&nbsp;<a href="https://www.elmundo.es/deportes/golf/2023/03/10/640b81b121efa0a5598b4597.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/deportes.xml" alt=""/></description>
+            <dc:creator>HUGO COSTA</dc:creator>
+            <link>https://www.elmundo.es/deportes/golf/2023/03/10/640b81b121efa0a5598b4597.html</link>
+            <category>deportes</category>
+            <category>golf</category>
+            <category>Jon Rahm</category>
+            <media:description type="html">El próximo evento en el que participará será el Dell Technologies Match Play que se disputará a finales de mes en Austin (Texas), dos semanas antes del Masters de Agusta</media:description>
+            <media:title type="html">GOLF</media:title>
+            <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/10/16784751860128.jpg" medium="image" width="3072" height="2048" />
+            <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/10/16784751860128_150x0.jpg" width="150" height="100" />
+            <guid>https://www.elmundo.es/deportes/golf/2023/03/10/640b81b121efa0a5598b4597.html</guid>
+            <pubDate>Fri, 10 Mar 2023 20:15:02 +0100</pubDate>
+        </item>
+        <item>
+            <title>La Fiscalía acusa al Barcelona de comprar árbitros</title>
+            <description>El Ministerio Publico formaliza su denuncia contra el ex presidente Bartomeu y otros directivos por abonar unos 3 millones de 2014 a 2018 al ex árbitro Enríquez Negreira&nbsp;<a href="https://www.elmundo.es/deportes/2023/03/10/640b3b3afc6c83f0338b458c.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/deportes.xml" alt=""/></description>
+            <dc:creator>GERMÁN GONZÁLEZ</dc:creator>
+            <link>https://www.elmundo.es/deportes/2023/03/10/640b3b3afc6c83f0338b458c.html</link>
+            <category>Artículos Germán González</category>
+            <category>Josep Maria Bartomeu</category>
+            <category>Caso Neymar</category>
+            <category>Caso Negreira</category>
+            <media:description type="html">El Ministerio Publico formaliza su denuncia contra el ex presidente Bartomeu y otros directivos por abonar unos 3 millones de 2014 a 2018 al ex árbitro Enríquez Negreira</media:description>
+            <media:title type="html">TRIBUNALES</media:title>
+            <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/10/16784575626314.jpg" medium="image" width="3072" height="2047" />
+            <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/10/16784575626314_150x0.jpg" width="150" height="99" />
+            <guid>https://www.elmundo.es/deportes/2023/03/10/640b3b3afc6c83f0338b458c.html</guid>
+            <pubDate>Fri, 10 Mar 2023 18:01:57 +0100</pubDate>
+        </item>
+        <item>
+            <title>Shiffrin iguala el récord de Stenmark en su propia casa</title>
+            <description>En la estación de Are también había obtenido la estadounidense, en diciembre de 2012, su primer triunfo en la Copa del Mundo&nbsp;<a href="https://www.elmundo.es/deportes/nieve/2023/03/10/640b5a2be4d4d800258b456f.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/deportes.xml" alt=""/></description>
+            <dc:creator>CARLOS TORO</dc:creator>
+            <link>https://www.elmundo.es/deportes/nieve/2023/03/10/640b5a2be4d4d800258b456f.html</link>
+            <category>deportes</category>
+            <category>esquí</category>
+            <category>Artículos Carlos Toro</category>
+            <media:description type="html">En la estación de Are también había obtenido la estadounidense, en diciembre de 2012, su primer triunfo en la Copa del Mundo</media:description>
+            <media:title type="html">NIEVE</media:title>
+            <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/10/16784654741153.jpg" medium="image" width="3072" height="2047" />
+            <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/10/16784654741153_150x0.jpg" width="150" height="99" />
+            <guid>https://www.elmundo.es/deportes/nieve/2023/03/10/640b5a2be4d4d800258b456f.html</guid>
+            <pubDate>Fri, 10 Mar 2023 17:26:43 +0100</pubDate>
+        </item>
+        <item>
+            <title>Tres años de suspensión a un portero de segunda regional por darle un cabezazo al árbitro</title>
+            <description>El jugador del equipo aragonés Alto De La Muela CF había recibido la tarjeta roja por ir a protestarle al colegiado por su arbitraje en un partido que había terminado empate a uno&nbsp;<a href="https://www.elmundo.es/deportes/futbol/2023/03/10/640b2824e4d4d8f85a8b45cb.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/deportes.xml" alt=""/></description>
+            <dc:creator>JAVIER ORTEGA</dc:creator>
+            <link>https://www.elmundo.es/deportes/futbol/2023/03/10/640b2824e4d4d8f85a8b45cb.html</link>
+            <category>deportes</category>
+            <category>Fútbol</category>
+            <media:description type="html">El jugador del equipo aragonés Alto De La Muela CF había recibido la tarjeta roja por ir a protestarle al colegiado por su arbitraje en un partido que había terminado empate a uno</media:description>
+            <media:title type="html">FÚTBOL</media:title>
+            <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/10/16784526956495.jpg" medium="image" width="1511" height="2015" />
+            <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/10/16784526956495_150x0.jpg" width="150" height="200" />
+            <guid>https://www.elmundo.es/deportes/futbol/2023/03/10/640b2824e4d4d8f85a8b45cb.html</guid>
+            <pubDate>Fri, 10 Mar 2023 13:53:27 +0100</pubDate>
+        </item>
+        <item>
+            <title>El gran cabreo de Cristiano Ronaldo tras perder el clásico de Arabia Saudí</title>
+            <description>El portugués se marchó visiblemente enfadado hacia el túnel de vestuarios tras la derrota del Al Nassr ante el Al Ittihan.&nbsp;<a href="https://www.elmundo.es/deportes/futbol/2023/03/10/640af153fc6c83a1718b45ab.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/deportes.xml" alt=""/></description>
+            <dc:creator>EL MUNDO | AGENCIAS</dc:creator>
+            <link>https://www.elmundo.es/deportes/futbol/2023/03/10/640af153fc6c83a1718b45ab.html</link>
+            <category>deportes</category>
+            <category>Fútbol</category>
+            <category>Cristiano Ronaldo</category>
+            <media:description type="html">El portugués se marchó visiblemente enfadado hacia el túnel de vestuarios tras la derrota del Al Nassr ante el Al Ittihan.</media:description>
+            <media:title type="html">FÚTBOL</media:title>
+            <guid>https://www.elmundo.es/deportes/futbol/2023/03/10/640af153fc6c83a1718b45ab.html</guid>
+            <pubDate>Fri, 10 Mar 2023 13:30:29 +0100</pubDate>
+        </item>
+        <item>
+            <title>Destituyen a la seleccionadora francesa por sus diferencias con las jugadoras: "Me siento víctima de un ajuste de cuentas personal"</title>
+            <description>La capitana del combinado, Wendie Renard, y dos de sus figuras, Katoto y Diani, se retiraron de la selección en desacuerdo con su trabajo&nbsp;<a href="https://www.elmundo.es/deportes/futbol/futbol-femenino/2023/03/10/640ae033fdddff90478b4582.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/deportes.xml" alt=""/></description>
+            <dc:creator>EFE</dc:creator>
+            <link>https://www.elmundo.es/deportes/futbol/futbol-femenino/2023/03/10/640ae033fdddff90478b4582.html</link>
+            <category>Selección de Fútbol de Francia</category>
+            <category>Francia</category>
+            <category>deportes</category>
+            <media:description type="html">La capitana del combinado, Wendie Renard, y dos de sus figuras, Katoto y Diani, se retiraron de la selección en desacuerdo con su trabajo</media:description>
+            <media:title type="html">FÚTBOL FEMENINO</media:title>
+            <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/10/16784342963690.jpg" medium="image" width="3072" height="2055" />
+            <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/10/16784342963690_150x0.jpg" width="150" height="100" />
+            <guid>https://www.elmundo.es/deportes/futbol/futbol-femenino/2023/03/10/640ae033fdddff90478b4582.html</guid>
+            <pubDate>Fri, 10 Mar 2023 08:46:04 +0100</pubDate>
+        </item>
+        <item>
+            <title>A Jon Rahm le abandona su putter en la primera jornada del The Players</title>
+            <description>Pese a las pocas conversiones, firma una tarjeta de 71 golpes y se mantiene entre los 30 primeros&nbsp;<a href="https://www.elmundo.es/deportes/golf/2023/03/10/640a6697fdddff6f208b45a4.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/deportes.xml" alt=""/></description>
+            <dc:creator>HUGO COSTA</dc:creator>
+            <link>https://www.elmundo.es/deportes/golf/2023/03/10/640a6697fdddff6f208b45a4.html</link>
+            <category>deportes</category>
+            <category>golf</category>
+            <category>Jon Rahm</category>
+            <category>PGA Championship</category>
+            <media:description type="html">Pese a las pocas conversiones, firma una tarjeta de 71 golpes y se mantiene entre los 30 primeros</media:description>
+            <media:title type="html">GOLF</media:title>
+            <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/10/16784035028488.jpg" medium="image" width="3072" height="2047" />
+            <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/10/16784035028488_150x0.jpg" width="150" height="99" />
+            <guid>https://www.elmundo.es/deportes/golf/2023/03/10/640a6697fdddff6f208b45a4.html</guid>
+            <pubDate>Fri, 10 Mar 2023 08:36:29 +0100</pubDate>
+        </item>
+        <item>
+            <title>Alcaraz regresa en Indian Wells, donde anunció su explosión en 2022: "No estoy en absoluto preocupado"</title>
+            <description>El español, que volverá al número 1 del mundo si gana el título, ya está recuperado de la nueva lesión sufrida en el ATP 500 de Río de Janeiro&nbsp;<a href="https://www.elmundo.es/deportes/tenis/2023/03/10/640a232d21efa0a27c8b45bd.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/deportes.xml" alt=""/></description>
+            <dc:creator>Javier Martínez</dc:creator>
+            <link>https://www.elmundo.es/deportes/tenis/2023/03/10/640a232d21efa0a27c8b45bd.html</link>
+            <category>deportes</category>
+            <category>tenis</category>
+            <category>Indian Wells</category>
+            <category>US Open</category>
+            <category>Mutua Madrid Open</category>
+            <category>Masters 1000 Miami</category>
+            <category>Rafa Nadal</category>
+            <category>Novak Djokovic</category>
+            <category>Artículos Javier Martínez</category>
+            <media:description type="html">El español, que volverá al número 1 del mundo si gana el título, ya está recuperado de la nueva lesión sufrida en el ATP 500 de Río de Janeiro</media:description>
+            <media:title type="html">TENIS</media:title>
+            <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/09/16783865828080.jpg" medium="image" width="3072" height="2099" />
+            <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/09/16783865828080_150x0.jpg" width="150" height="102" />
+            <guid>https://www.elmundo.es/deportes/tenis/2023/03/10/640a232d21efa0a27c8b45bd.html</guid>
+            <pubDate>Fri, 10 Mar 2023 01:35:15 +0100</pubDate>
+        </item>
+        <item>
+            <title>Un escándalo de acoso sexual agita el debate sobre la minoría de mujeres en el ajedrez: "Las infravaloran"</title>
+            <description>El gran maestro y entrenador Alejandro Ramírez es denunciado por varias jugadoras, tres de las cuales eran menores cuando sufrieron los ataques. "La competición o el ambiente perjudican más a las chicas", dice Sabrina Vega, número uno de España.&nbsp;<a href="https://www.elmundo.es/deportes/mas-deporte/2023/03/10/6409d962fdddff8a278b45a4.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/deportes.xml" alt=""/></description>
+            <dc:creator>FEDERICO MARÍN BELLÓN</dc:creator>
+            <link>https://www.elmundo.es/deportes/mas-deporte/2023/03/10/6409d962fdddff8a278b45a4.html</link>
+            <category>deportes</category>
+            <category>ajedrez</category>
+            <media:description type="html">El gran maestro y entrenador Alejandro Ramírez es denunciado por varias jugadoras, tres de las cuales eran menores cuando sufrieron los ataques. "La competición o el ambiente perjudican más a las chicas", dice Sabrina Vega, número uno de España.</media:description>
+            <media:title type="html">MÁS DEPORTE</media:title>
+            <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/09/16783830244916.jpg" medium="image" width="3072" height="2036" />
+            <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/09/16783830244916_150x0.jpg" width="150" height="99" />
+            <guid>https://www.elmundo.es/deportes/mas-deporte/2023/03/10/6409d962fdddff8a278b45a4.html</guid>
+            <pubDate>Fri, 10 Mar 2023 01:35:11 +0100</pubDate>
+        </item>
+        <item>
+            <title>El Betis no pudo soñar en Old Trafford</title>
+            <description>El equipo español goleado por un Manchester United (4-1) que demostró ser superior y tiene pie y medio fuera de la Europa League&nbsp;<a href="https://www.elmundo.es/deportes/futbol/europa-league/2023/03/09/640a622bfc6c838d5d8b45b2.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/deportes.xml" alt=""/></description>
+            <dc:creator>ANTONIO AGREDANO</dc:creator>
+            <link>https://www.elmundo.es/deportes/futbol/europa-league/2023/03/09/640a622bfc6c838d5d8b45b2.html</link>
+            <category>Bruno Fernandes</category>
+            <category>David De Gea</category>
+            <category>Europa League</category>
+            <category>deportes</category>
+            <category>Manchester United</category>
+            <category>Real Betis Balompié</category>
+            <media:description type="html">El equipo español goleado por un Manchester United (4-1) que demostró ser superior y tiene pie y medio fuera de la Europa League</media:description>
+            <media:title type="html">EUROPA LEAGUE</media:title>
+            <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/09/16784022930738.jpg" medium="image" width="2048" height="1258" />
+            <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/09/16784022930738_150x0.jpg" width="150" height="92" />
+            <guid>https://www.elmundo.es/deportes/futbol/europa-league/2023/03/09/640a622bfc6c838d5d8b45b2.html</guid>
+            <pubDate>Thu, 09 Mar 2023 23:53:51 +0100</pubDate>
+        </item>
+    </channel>
+</rss>
